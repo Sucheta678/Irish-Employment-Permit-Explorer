@@ -1,0 +1,1042 @@
+employer_name,permits_total,sector,rule_keyword,rule_confidence
+Dawn Meats Ireland UC,293,Manufacturing,meats,medium
+Rosderra Irish Meats Group Unlimited Company,238,Manufacturing,meats,medium
+Redwood Extended Care Facility Unlimited Company,226,Human Health and Social Work Activities,extended care,high
+Resilience Healthcare Limited,192,Human Health and Social Work Activities,healthcare,medium
+University Limerick Hospitals Group,171,Human Health and Social Work Activities,hospitals,high
+Cork University Hospital,165,Human Health and Social Work Activities,hospital,high
+Allpro Security Services Ireland Limited,153,Administrative and Support Service Activities,security services,medium
+Bus Átha Cliath - Dublin Bus,146,Transportation and Storage,bus atha cliath,high
+Ernst & Young,145,"Professional, Scientific and Technical Activities",ernst & young,high
+Mowlam Healthcare Services Unlimited Company,134,Human Health and Social Work Activities,healthcare,medium
+Nua Healthcare Services Limited,134,Human Health and Social Work Activities,healthcare,medium
+Anglo Beef Processors Ireland Unlimited Company,116,Manufacturing,beef,medium
+Silver Stream Healthcare Management Limited,111,Human Health and Social Work Activities,healthcare,medium
+University Hospital Kerry,110,Human Health and Social Work Activities,hospital,high
+Galway University Hospital,94,Human Health and Social Work Activities,hospital,high
+Deloitte Ireland LLP,86,"Professional, Scientific and Technical Activities",deloitte,high
+Our Lady of Lourdes Hospital Drogheda,79,Human Health and Social Work Activities,hospital,high
+Bus Éireann - Irish Bus,75,Transportation and Storage,bus eireann,high
+Letterkenny University Hospital,66,Human Health and Social Work Activities,hospital,high
+TLC Health Services Limited,64,Human Health and Social Work Activities,health services,medium
+Communicare Agency Limited,64,Administrative and Support Service Activities,agency,medium
+HSE West and North West,63,Human Health and Social Work Activities,hse,high
+Electricity Supply Board,61,"Electricity, Gas, Steam and Air Conditioning Supply",electricity supply board,high
+Callinan Coaches Limited,58,Transportation and Storage,coaches,medium
+Newbrook Nursing Home Unlimited Company,57,Human Health and Social Work Activities,nursing home,high
+University Hospital Waterford,57,Human Health and Social Work Activities,hospital,high
+Liffey Meats (Cavan) Unlimited Company,53,Manufacturing,meats,medium
+Clemac Regional Home Care Services Limited,53,Human Health and Social Work Activities,home care,medium
+CPL Healthcare Limited,52,Administrative and Support Service Activities,cpl,medium
+Homecare & Health Services (Ireland) Limited,51,Human Health and Social Work Activities,homecare,medium
+Cuala Senior Care Limited,50,Human Health and Social Work Activities,senior care,medium
+Glenferry Coaches Limited,50,Transportation and Storage,coaches,medium
+TUSLA - Child and Family Agency,47,Human Health and Social Work Activities,tusla,high
+South Tipperary General Hospital,47,Human Health and Social Work Activities,hospital,high
+Mayo University Hospital,46,Human Health and Social Work Activities,hospital,high
+Children's Health Ireland,45,Human Health and Social Work Activities,children's health ireland,high
+McCarren Meats Unlimited Company,45,Manufacturing,meats,medium
+KPMG,40,"Professional, Scientific and Technical Activities",kpmg,high
+Mercy University Hospital CLG,40,Human Health and Social Work Activities,hospital,high
+Sonas Nursing Homes Management Co Limited,39,Human Health and Social Work Activities,nursing home,high
+Portiuncula University Hospital,39,Human Health and Social Work Activities,hospital,high
+Haven Bay Care Centre Limited,38,Human Health and Social Work Activities,care centre,high
+RAH Home Care Limited,38,Human Health and Social Work Activities,home care,medium
+Parke House Nursing Home Limited,38,Human Health and Social Work Activities,nursing home,high
+Laois Scaffolding Services Limited,37,Construction,scaffold,medium
+Keelings Retail Unlimited Company,37,Wholesale and Retail Trade,retail,medium
+Cavan & Monaghan Hospital (Health Service Executive Ch01),37,Human Health and Social Work Activities,hospital,high
+Forvis Mazars,37,"Professional, Scientific and Technical Activities",mazars,high
+St. Luke's General Hospital,37,Human Health and Social Work Activities,hospital,high
+St. James Hospital Board,35,Human Health and Social Work Activities,hospital,high
+Connolly Meats Limited,34,Manufacturing,meats,medium
+Beacon Hospital Sandyford Limited,34,Human Health and Social Work Activities,hospital,high
+Moyglare Nursing Home Limited,34,Human Health and Social Work Activities,nursing home,high
+Bank of America Europe Designated Activity Company,33,Financial and Insurance Activities,bank,medium
+PricewaterhouseCoopers Services,33,"Professional, Scientific and Technical Activities",pricewaterhouse,high
+Beech Lodge Care Facility Limited,33,Human Health and Social Work Activities,care facility,high
+Naas General Hospital,33,Human Health and Social Work Activities,hospital,high
+Newcastle West Nursing Home Limited,33,Human Health and Social Work Activities,nursing home,high
+Maynooth Meat Processors Unlimited Company,33,Manufacturing,meat,medium
+O'Brien Transport (Newbawn) Limited,31,Transportation and Storage,transport,medium
+Uisce Éireann,31,"Water Supply, Sewerage and Waste Management",uisce eireann,high
+Tallaght University Hospital,31,Human Health and Social Work Activities,hospital,high
+Mater Private Hospital Unlimited Company,30,Human Health and Social Work Activities,hospital,high
+Barry's Coaches Limited,30,Transportation and Storage,coaches,medium
+Beaumont Hospital Board,29,Human Health and Social Work Activities,hospital,high
+Moyvalley Meats (IRL) Unlimited Company,29,Manufacturing,meats,medium
+Hamilton Park Care Centre Limited,28,Human Health and Social Work Activities,care centre,high
+Brindley Healthcare Services Limited (Manor),28,Human Health and Social Work Activities,healthcare,medium
+Blackrock Healthcare Group Unlimited,28,Human Health and Social Work Activities,healthcare,medium
+Ashbourne Meats Roscrea UC,27,Manufacturing,meats,medium
+Regional Hospital Mullingar,27,Human Health and Social Work Activities,hospital,high
+Kingdom Home Care Services Limited,25,Human Health and Social Work Activities,home care,medium
+KDM Construction Limited,25,Construction,construction,medium
+Jama Home Care Ltd,25,Human Health and Social Work Activities,home care,medium
+Midland Regional Hospital at Tullamore,25,Human Health and Social Work Activities,hospital,high
+Nurture Childcare Limited,25,Human Health and Social Work Activities,childcare,medium
+Elder Home Care Limited,24,Human Health and Social Work Activities,home care,medium
+HSE MRH Portlaoise,24,Human Health and Social Work Activities,hse,high
+Anglo Beef Processors Unlimited Ireland,23,Manufacturing,beef,medium
+Ryevale Nursing Home Kildare Limited,23,Human Health and Social Work Activities,nursing home,high
+Drumderrig House Nursing Home Limited,22,Human Health and Social Work Activities,nursing home,high
+Boyne Valley Meats Unlimited company,22,Manufacturing,meats,medium
+Mater Misericordiae University Hospital,21,Human Health and Social Work Activities,hospital,high
+"Trinity College Dublin, the University of Dublin",21,Education,college,high
+Anglo Beef Processors Ireland,21,Manufacturing,beef,medium
+North Dublin Inner City Home Care and Home Help Services CLG –T/A North Dublin Home Care,21,Human Health and Social Work Activities,home care,medium
+Araglen House Nursing Home Limited,21,Human Health and Social Work Activities,nursing home,high
+All About Healthcare Limited,20,Human Health and Social Work Activities,healthcare,medium
+Nursing and Caring Services Limited,19,Human Health and Social Work Activities,nursing,medium
+Cork Kerry Community Healthcare,19,Human Health and Social Work Activities,healthcare,medium
+Wexford General Hospital,19,Human Health and Social Work Activities,hospital,high
+Little Harvard Childcare Limited,19,Human Health and Social Work Activities,childcare,medium
+Abbot Close Nursing Home Limited,18,Human Health and Social Work Activities,nursing home,high
+Greenvalley Transport Plant Hire Limited,18,Transportation and Storage,transport,medium
+Cooley Nursing Home Ltd,18,Human Health and Social Work Activities,nursing home,high
+Dungarvan Transport Limited,18,Transportation and Storage,transport,medium
+Donegal Meat Processors Unlimited Company,18,Manufacturing,meat,medium
+Samdor Health Care Services Limited,17,Human Health and Social Work Activities,health care,medium
+Cowper Care Centre Designated Activity Company,17,Human Health and Social Work Activities,care centre,high
+St. Vincent's Healthcare Group,17,Human Health and Social Work Activities,healthcare,medium
+John Paul Construction Limited,17,Construction,construction,medium
+Joe Duffy Motors Limited,17,Wholesale and Retail Trade,motors,medium
+Beaumont Residential Care Limited,17,Human Health and Social Work Activities,residential care,high
+Hillcrest Nursing Home Ltd,16,Human Health and Social Work Activities,nursing home,high
+Hotel Merrion Limited,16,Accommodation and Food Service Activities,hotel,high
+The Brindley Manor Federation Of Nursing Homes Limited,16,Human Health and Social Work Activities,nursing home,high
+Killeline Nursing Home Ltd,16,Human Health and Social Work Activities,nursing home,high
+Cahercalla Community Hospital,16,Human Health and Social Work Activities,hospital,high
+Be Independent Home Care Limited,16,Human Health and Social Work Activities,home care,medium
+Martin Ryan Haulage Limited,16,Transportation and Storage,haulage,medium
+Brookhaven Nursing Home Limited,15,Human Health and Social Work Activities,nursing home,high
+Oaklands Garage Limited,15,Wholesale and Retail Trade,garage,medium
+Bridhaven Nursing Home Limited,15,Human Health and Social Work Activities,nursing home,high
+Our Lady's Hospital Navan,15,Human Health and Social Work Activities,hospital,high
+Windmill Nursing Home & Retirement Village Limited,15,Human Health and Social Work Activities,nursing home,high
+Storey Broe Nursing Services Limited,15,Human Health and Social Work Activities,nursing,medium
+Flanagans Nursing Home Limited,15,Human Health and Social Work Activities,nursing home,high
+St. Michael's Nursing Home Limited,14,Human Health and Social Work Activities,nursing home,high
+Banner Healthcare Limited,14,Human Health and Social Work Activities,healthcare,medium
+Iarnród Éireann - Irish Rail,14,Transportation and Storage,iarnrod eireann,high
+Tinnypark Residential Care Limited,14,Human Health and Social Work Activities,residential care,high
+University College Dublin,14,Education,university,high
+Walls Construction Limited,13,Construction,construction,medium
+TerraGlen Residential Care Services Limited,13,Human Health and Social Work Activities,residential care,high
+South Coast Logistics Limited,13,Transportation and Storage,logistics,medium
+GDC Construction Services Limited,13,Construction,construction,medium
+Tarrant International Transport Limited,13,Transportation and Storage,transport,medium
+Dublin North City Mental Health Services,12,Human Health and Social Work Activities,health services,medium
+Bantry General Hospital (Health Service Executive -South),12,Human Health and Social Work Activities,hospital,high
+Mount Hybla Nursing Home Limited,12,Human Health and Social Work Activities,nursing home,high
+O'Mahony Meats Limited,12,Manufacturing,meats,medium
+Springwood Nursing Homes Limited,12,Human Health and Social Work Activities,nursing home,high
+Shannon Transport & Warehousing Company Unlimited,12,Transportation and Storage,transport,medium
+Lynmara Healthcare Limited,11,Human Health and Social Work Activities,healthcare,medium
+Newmarket Nursing Home Limited,11,Human Health and Social Work Activities,nursing home,high
+Perennial Freight Limited,11,Transportation and Storage,freight,medium
+Shannon Lodge Nursing Home Rooskey Limited,11,Human Health and Social Work Activities,nursing home,high
+Cherry Grove Nursing Home Limited,11,Human Health and Social Work Activities,nursing home,high
+Ard Na Ri Nursing Home,11,Human Health and Social Work Activities,nursing home,high
+Kiernan Farms (Aughafad),11,"Agriculture, Forestry and Fishing",farms,medium
+Elliott Building and Civil Engineering Limited,11,Construction,civil engineering,medium
+Abbeylands Nursing Home & Alzheimers Unit Limited,10,Human Health and Social Work Activities,nursing home,high
+Goggins Transport Company Ltd,10,Transportation and Storage,transport,medium
+The National Maternity Hospital,10,Human Health and Social Work Activities,hospital,high
+Pat McGowan Transport Limited,10,Transportation and Storage,transport,medium
+Virginia Transport Ltd,10,Transportation and Storage,transport,medium
+Bushmount Nursing Home Limited,10,Human Health and Social Work Activities,nursing home,high
+Rockwell Constructions Limited,10,Construction,construction,medium
+HSE Mid West,10,Human Health and Social Work Activities,hse,high
+SECON CONSTRUCTION SERVICES LIMITED,10,Construction,construction,medium
+St. Paul's Nursing Home Limited,10,Human Health and Social Work Activities,nursing home,high
+Needham Haulage Limited,10,Transportation and Storage,haulage,medium
+McElwain Scaffolding Ltd,10,Construction,scaffold,medium
+Sacred Heart Nursing Home,10,Human Health and Social Work Activities,nursing home,high
+"Mental Health Services, Cork and Kerry",10,Human Health and Social Work Activities,health services,medium
+MPM Nursing Home Limited,10,Human Health and Social Work Activities,nursing home,high
+Flannery's Nursing Home Limited,9,Human Health and Social Work Activities,nursing home,high
+The Village Nursing Home Limited,9,Human Health and Social Work Activities,nursing home,high
+Hope Autism Care Centre Limited,9,Human Health and Social Work Activities,care centre,high
+South Infirmary Victoria University Hospital,9,Human Health and Social Work Activities,hospital,high
+Ballon Meats UC,9,Manufacturing,meats,medium
+Mid West Healthcare Limited,9,Human Health and Social Work Activities,healthcare,medium
+Rossclare Nursing Home Limited,9,Human Health and Social Work Activities,nursing home,high
+Skibbereen Residential Care Centre Limited,9,Human Health and Social Work Activities,residential care,high
+Vertex Roofing Systems Limited,9,Construction,roofing,medium
+Traditional Meat Company (Ireland) Unlimited Company,9,Manufacturing,meat,medium
+Greystones Nursing Home Limited,9,Human Health and Social Work Activities,nursing home,high
+Health Service Executive - National Screening Service,9,Human Health and Social Work Activities,health service executive,high
+Ashgrove Wholesale Ltd,9,Wholesale and Retail Trade,wholesale,medium
+Health Service Executive CHO1,9,Human Health and Social Work Activities,health service executive,high
+Park House Hotel Limited,9,Accommodation and Food Service Activities,hotel,high
+Bloomfield Hospital,9,Human Health and Social Work Activities,hospital,high
+Lystoll Lodge Nursing Home Ltd,8,Human Health and Social Work Activities,nursing home,high
+Lisheen Nursing Centre Limited,8,Human Health and Social Work Activities,nursing,medium
+University of Limerick,8,Education,university,high
+Whitethorn Lodge Care Home Tralee Limited,8,Human Health and Social Work Activities,care home,high
+Aidan Doherty Transport Ltd,8,Transportation and Storage,transport,medium
+Dunboyne Nursing Home,8,Human Health and Social Work Activities,nursing home,high
+Applewood Homecare Limited,8,Human Health and Social Work Activities,homecare,medium
+CPL Solutions Limited,8,Administrative and Support Service Activities,cpl,medium
+Carnalway Freight Limited,8,Transportation and Storage,freight,medium
+Mountain Lodge Nursing Home Limited,8,Human Health and Social Work Activities,nursing home,high
+Connolly Hospital,8,Human Health and Social Work Activities,hospital,high
+Coolsivna Construction Limited,8,Construction,construction,medium
+Kavanagh Meats Enniscorthy,8,Manufacturing,meats,medium
+Athlunkard Nursing Home Limited,8,Human Health and Social Work Activities,nursing home,high
+Fairfield Nursing Home Ltd.,8,Human Health and Social Work Activities,nursing home,high
+Giggles Childcare Services Limited,8,Human Health and Social Work Activities,childcare,medium
+Monasterevin Motors Limited,8,Wholesale and Retail Trade,motors,medium
+Cargo Power Logistics Ltd,8,Transportation and Storage,logistics,medium
+Mallow Road Motors (Cork) Ltd,8,Wholesale and Retail Trade,motors,medium
+Royal College of Surgeons In Ireland,8,Education,college,high
+Troia (UK) Restaurants Limited,7,Accommodation and Food Service Activities,restaurants,high
+Health Service Executive,7,Human Health and Social Work Activities,health service executive,high
+Intact Insurance Ireland Designated Activity Company,7,Financial and Insurance Activities,insurance,medium
+JCP Powdermill Care Centre Limited,7,Human Health and Social Work Activities,care centre,high
+Riverside Neville Park Hotel Limited,7,Accommodation and Food Service Activities,hotel,high
+Oakwood Private Nursing Home Limited,7,Human Health and Social Work Activities,nursing home,high
+Triur Construction Limited,7,Construction,construction,medium
+Armada Hotel Holdings Limited,7,Accommodation and Food Service Activities,hotel,high
+Ashlawn Nursing Home Limited,7,Human Health and Social Work Activities,nursing home,high
+HSE Service Executive (CHO 5),7,Human Health and Social Work Activities,hse,high
+Saint Francis care Home Kilkerrin Limited,7,Human Health and Social Work Activities,care home,high
+Mullally Haulage Limited,7,Transportation and Storage,haulage,medium
+Candela Healthcare Ltd,7,Human Health and Social Work Activities,healthcare,medium
+Roskell Transport Ltd,7,Transportation and Storage,transport,medium
+Cappoquin Transport Limited,7,Transportation and Storage,transport,medium
+Callan Bacon Company Limited,7,Manufacturing,bacon,medium
+St Vincents Healthcare Group,7,Human Health and Social Work Activities,healthcare,medium
+Kilminchy Lodge Nursing Home Ltd,7,Human Health and Social Work Activities,nursing home,high
+L & R Warehousing & Logistics Limited,7,Transportation and Storage,logistics,medium
+Villa Marie Nursing Home Ltd,6,Human Health and Social Work Activities,nursing home,high
+GoodPeople Homecare Limited,6,Human Health and Social Work Activities,homecare,medium
+Glenview Hotel Ltd,6,Accommodation and Food Service Activities,hotel,high
+J.P.G. Freight Limited,6,Transportation and Storage,freight,medium
+J & M Transport Services Limited,6,Transportation and Storage,transport,medium
+Ted Brennan Motors Limited,6,Wholesale and Retail Trade,motors,medium
+Strathroy Dairy ROI UC,6,Manufacturing,dairy,medium
+Grand Hotel Malahide Ltd,6,Accommodation and Food Service Activities,hotel,high
+TTM Healthcare Limited,6,Human Health and Social Work Activities,healthcare,medium
+A.F. Lucey Haulage Limited,6,Transportation and Storage,haulage,medium
+Louth Meath Mental Health Services,6,Human Health and Social Work Activities,health services,medium
+UPMC Whitfield Hospital Limited,6,Human Health and Social Work Activities,hospital,high
+Brooklodge Nursing Home Limited,6,Human Health and Social Work Activities,nursing home,high
+Queen Of Peace Nursing Home,6,Human Health and Social Work Activities,nursing home,high
+Westcare Homecare,6,Human Health and Social Work Activities,care home,high
+Anglo Beef Processors Ireland (Waterford),6,Manufacturing,beef,medium
+All Fresh Wholesale Limited,6,Wholesale and Retail Trade,wholesale,medium
+Rushmore Nursing Home Limited,6,Human Health and Social Work Activities,nursing home,high
+Millbrae Lodge Nursing Home Limited,6,Human Health and Social Work Activities,nursing home,high
+Samco Agricultural Manufacturing Limited,6,"Agriculture, Forestry and Fishing",agricultural,medium
+Safari Childcare Ltd.,6,Human Health and Social Work Activities,childcare,medium
+Roscommon University Hospital,6,Human Health and Social Work Activities,hospital,high
+Neville Hotels ULC,6,Accommodation and Food Service Activities,hotels,high
+Archview Lodge Nursing Home Ltd,6,Human Health and Social Work Activities,nursing home,high
+Torriam Hotel Operating Company Limited,6,Accommodation and Food Service Activities,hotel,high
+B.M.C. (Nursing Home) Limited,6,Human Health and Social Work Activities,nursing home,high
+Little Island Transport Company Limited,6,Transportation and Storage,transport,medium
+Castle Homecare Limited,6,Human Health and Social Work Activities,homecare,medium
+Carrons Haulage Limited,6,Transportation and Storage,haulage,medium
+Lawson House Nursing Home Ltd,6,Human Health and Social Work Activities,nursing home,high
+St. Eunan's Nursing And Convalescent Home Limited,6,Human Health and Social Work Activities,nursing,medium
+Wygram Nursing Home Limited,5,Human Health and Social Work Activities,nursing home,high
+Dunmore House Hotel Limited,5,Accommodation and Food Service Activities,hotel,high
+Portlaoise Logistics Limited,5,Transportation and Storage,logistics,medium
+Blackrocks Nursing Home Limited,5,Human Health and Social Work Activities,nursing home,high
+Réalta Healthcare Limited,5,Human Health and Social Work Activities,healthcare,medium
+Raheny House Nursing Home Limited,5,Human Health and Social Work Activities,nursing home,high
+O'Toole Transport Limited,5,Transportation and Storage,transport,medium
+Oakdale Nursing Home Ltd,5,Human Health and Social Work Activities,nursing home,high
+Aclare Nursing Home Ltd,5,Human Health and Social Work Activities,nursing home,high
+Aherns Garage Ltd,5,Wholesale and Retail Trade,garage,medium
+Newpark Hotel Limited,5,Accommodation and Food Service Activities,hotel,high
+Stateline Transport Limited,5,Transportation and Storage,transport,medium
+Knockeen Nursing Home Limited,5,Human Health and Social Work Activities,nursing home,high
+Maria Goretti Nursing Home,5,Human Health and Social Work Activities,nursing home,high
+Central Remedial Clinic,5,Human Health and Social Work Activities,clinic,high
+South East Technological University (SETU),5,Education,technological university,high
+Renvyle Hotel Limited,5,Accommodation and Food Service Activities,hotel,high
+Charlie's Childcare Limited,5,Human Health and Social Work Activities,childcare,medium
+B & D Healthcare Company Limited,5,Human Health and Social Work Activities,healthcare,medium
+The Schoolhouse Hotel Limited,5,Accommodation and Food Service Activities,hotel,high
+SW Restaurant Limited,5,Accommodation and Food Service Activities,restaurant,high
+Thunder Road Cafe Limited,5,Accommodation and Food Service Activities,cafe,medium
+John Fitzgerald Vehicle Body Builders Cork Limited,5,Construction,builders,medium
+K&J Townmore Construction (Ireland) Limited,5,Construction,construction,medium
+JMW Farms (Irl) Limited,5,"Agriculture, Forestry and Fishing",farms,medium
+Inua Hospitality Series 2 Limited,5,Accommodation and Food Service Activities,hospitality,medium
+Coldridge Scaffolding Limited,5,Construction,scaffold,medium
+CoalQuay Restaurants Limited,5,Accommodation and Food Service Activities,restaurants,high
+HSE CHO Dublin City and County,5,Human Health and Social Work Activities,hse,high
+Cosgrave Nursing Consultancy Limited,5,Human Health and Social Work Activities,nursing,medium
+Aras Mhuire Nursing Home,5,Human Health and Social Work Activities,nursing home,high
+GSAM Motors Limited,5,Wholesale and Retail Trade,motors,medium
+Deerpark Nursing Home Limited,5,Human Health and Social Work Activities,nursing home,high
+Abbey Physiotherapy Clinic Limited,5,Human Health and Social Work Activities,clinic,high
+Accountancy & Business College (Ireland) Ltd,4,Education,college,high
+Tobar Farms Unlimited,4,"Agriculture, Forestry and Fishing",farms,medium
+Tmech Heating Plumbing Ltd,4,Construction,plumbing,medium
+Dublin City University,4,Education,university,high
+McMorrow Haulage,4,Transportation and Storage,haulage,medium
+Enable Ireland Disability Services,4,Human Health and Social Work Activities,disability services,medium
+The Landmark Hotel Limited,4,Accommodation and Food Service Activities,hotel,high
+Coffey Construction (I) Ltd,4,Construction,construction,medium
+Connemara Lake Hotel Ltd,4,Accommodation and Food Service Activities,hotel,high
+Mayo Mental Health Services,4,Human Health and Social Work Activities,health services,medium
+Maryborough Nursing Home Limited,4,Human Health and Social Work Activities,nursing home,high
+Greenvalley Farms Limited,4,"Agriculture, Forestry and Fishing",farms,medium
+Griffeen Valley Nursing Home Ltd,4,Human Health and Social Work Activities,nursing home,high
+SEDA (Skills and Enterprise Development Academy) Ltd,4,Education,academy,medium
+Hotel Minella Limited,4,Accommodation and Food Service Activities,hotel,high
+Seamus Fitzpatrick Construction Limited,4,Construction,construction,medium
+Gowran Abbey Nursing Home Limited,4,Human Health and Social Work Activities,nursing home,high
+Bord Gáis Energy,4,"Electricity, Gas, Steam and Air Conditioning Supply",bord gais,high
+Megsars Healthcare Services Limited,4,Human Health and Social Work Activities,healthcare,medium
+Mulcahy Construction Limited,4,Construction,construction,medium
+Mullinahinch House Private Nursing Home Limited,4,Human Health and Social Work Activities,nursing home,high
+Moorehall Healthcare (Drogheda) Limited,4,Human Health and Social Work Activities,healthcare,medium
+Juddmonte Farms Ireland Limited,4,"Agriculture, Forestry and Fishing",farms,medium
+Buddha Lounge & Restaurant Ltd,4,Accommodation and Food Service Activities,restaurant,high
+NHC Construction Limited,4,Construction,construction,medium
+Newline Bulk Haulage,4,Transportation and Storage,haulage,medium
+The Coombe Women & Infant University Hospital,4,Human Health and Social Work Activities,hospital,high
+Fox's Pub Limited,4,Accommodation and Food Service Activities,pub,medium
+NSK Healthcare Ltd.,4,Human Health and Social Work Activities,healthcare,medium
+Ballyhugh International Transport Limited,4,Transportation and Storage,transport,medium
+Joe McGovern Transport Limited,4,Transportation and Storage,transport,medium
+Branch Healthcare Limited,4,Human Health and Social Work Activities,healthcare,medium
+Brooklyn Bars Limited,4,Accommodation and Food Service Activities,bars,medium
+OCC Hospitality Collection Unlimited Company - previously Persian Properties Unlimited Company,4,Accommodation and Food Service Activities,hospitality,medium
+O'Dwyer Transport and Warehousing Ltd,4,Transportation and Storage,transport,medium
+Hi5 School Age Services Limited,4,Education,school,medium
+PJ Logistics Ltd,4,Transportation and Storage,logistics,medium
+Glebo Castle Farms Limited,4,"Agriculture, Forestry and Fishing",farms,medium
+Global Asian Restaurants Limited,4,Accommodation and Food Service Activities,restaurants,high
+Banta Restaurants Limited,4,Accommodation and Food Service Activities,restaurants,high
+Darraglynn Nursing Home Limited,4,Human Health and Social Work Activities,nursing home,high
+HX46 Cafe And Pan Asian Casual Dining Ltd,4,Accommodation and Food Service Activities,cafe,medium
+Irish Bacon Slicers Limited,4,Manufacturing,bacon,medium
+LMR Restaurant (Cork) Limited,4,Accommodation and Food Service Activities,restaurant,high
+Listowel Hotel Limited,4,Accommodation and Food Service Activities,hotel,high
+University College Cork,4,Education,university,high
+H & D Meats Ltd,4,Manufacturing,meats,medium
+Linehan Civil Engineering Limited,4,Construction,civil engineering,medium
+DMG Motors Ltd,4,Wholesale and Retail Trade,motors,medium
+Westpond Lodges Hotel Limited,4,Accommodation and Food Service Activities,hotel,high
+HSE DSKWW Community Healthcare,4,Human Health and Social Work Activities,hse,high
+Hall Transport Ltd.,4,Transportation and Storage,transport,medium
+Tots Creche and Daycare Nursery Limited,3,Human Health and Social Work Activities,creche,medium
+Atlanta Nursing Home Ltd,3,Human Health and Social Work Activities,nursing home,high
+Kilrush District Hospital CLG,3,Human Health and Social Work Activities,hospital,high
+Killure Bridge Nursing Home Ltd,3,Human Health and Social Work Activities,nursing home,high
+Laois/Offaly Mental Health Services,3,Human Health and Social Work Activities,health services,medium
+M McGuire Haulage Ltd,3,Transportation and Storage,haulage,medium
+Tim Keogh Transport Limited,3,Transportation and Storage,transport,medium
+Fingal Home Care Company Limited by Guarantee,3,Human Health and Social Work Activities,home care,medium
+Ferrycarrig Hotel Limited,3,Accommodation and Food Service Activities,hotel,high
+Feeley Construction Limited,3,Construction,construction,medium
+Falls Hotel LTD,3,Accommodation and Food Service Activities,hotel,high
+Fairlawns Nursing Home Limited,3,Human Health and Social Work Activities,nursing home,high
+Mushrooms & Poultry Services Limited,3,Manufacturing,poultry,medium
+Millmount Healthcare Limited,3,Human Health and Social Work Activities,healthcare,medium
+Ashley Lodge Nursing Home Ltd,3,Human Health and Social Work Activities,nursing home,high
+Elder Nursing Homes Limited,3,Human Health and Social Work Activities,nursing home,high
+The Warehouse Gym Ltd,3,"Arts, Entertainment and Recreation",gym,medium
+Killarney Hotels Limited,3,Accommodation and Food Service Activities,hotels,high
+Kilcawley Building & Civil Engineering (Sligo) Limited,3,Construction,civil engineering,medium
+Connacht Hospitality Limited,3,Accommodation and Food Service Activities,hospitality,medium
+Conack Construction Unlimited,3,Construction,construction,medium
+Mangan Haulage Limited,3,Transportation and Storage,haulage,medium
+McElvaney Motors Limited,3,Wholesale and Retail Trade,motors,medium
+Ger Devlin Haulage & Plant Hire Ltd,3,Transportation and Storage,haulage,medium
+GE Healthcare Ireland Limited,3,Human Health and Social Work Activities,healthcare,medium
+Brewery Chemical & Dairy Engineering Limited,3,Manufacturing,brewery,medium
+Cooney Motors Ltd,3,Wholesale and Retail Trade,motors,medium
+P  D Hyland Farms Limited,3,"Agriculture, Forestry and Fishing",farms,medium
+Fort Motors Limited,3,Wholesale and Retail Trade,motors,medium
+TD Freight Limited,3,Transportation and Storage,freight,medium
+O'Donnabhain's Bar & Guesthouse Limited,3,Accommodation and Food Service Activities,bar,medium
+Stillorgan Gas Heating And Plumbing Ltd,3,Construction,plumbing,medium
+"Galway Bay Hotel, Conference and Leisure Centre Limited",3,Accommodation and Food Service Activities,hotel,high
+The Hospital for the Relief of Poor Lying-In Women Dublin,3,Human Health and Social Work Activities,hospital,high
+Jack's Bar Catering Limited,3,Accommodation and Food Service Activities,bar,medium
+JK Homecare Limited,3,Human Health and Social Work Activities,homecare,medium
+Bushy Park Nursing Home Ltd,3,Human Health and Social Work Activities,nursing home,high
+C&N Higgins Construction Limited,3,Construction,construction,medium
+Bandon Motors (Bandon) Ltd,3,Wholesale and Retail Trade,motors,medium
+The Bank of New York Mellon SA/NV,3,Financial and Insurance Activities,bank,medium
+The Junction Restaurant Limited,3,Accommodation and Food Service Activities,restaurant,high
+National College of Ireland,3,Education,college,high
+Noel Conway Construction Limited,3,Construction,construction,medium
+Ashford Castle Hotel Limited,3,Accommodation and Food Service Activities,hotel,high
+Ashdown Park Hotel Ltd,3,Accommodation and Food Service Activities,hotel,high
+Arthur J. Gallagher Insurance Brokers (Ireland) Limited,3,Financial and Insurance Activities,insurance,medium
+Ascot Freight Limited,3,Transportation and Storage,freight,medium
+Garryvoe Hotel Limited,3,Accommodation and Food Service Activities,hotel,high
+Barnacyle Nursing Home Limited,3,Human Health and Social Work Activities,nursing home,high
+Sláinte Hospitality Limited,3,Accommodation and Food Service Activities,hospitality,medium
+St Mary's Nursing Home Unlimited Company,3,Human Health and Social Work Activities,nursing home,high
+Stalwart Security Services Cork Limited,3,Administrative and Support Service Activities,security services,medium
+Stanford Woods Care Centre Limited,3,Human Health and Social Work Activities,care centre,high
+ING Bank N.V.,3,Financial and Insurance Activities,bank,medium
+SS&C Wealth and Insurance Ireland Limited,3,Financial and Insurance Activities,insurance,medium
+Green Pasture Meat Processors Limited,3,Manufacturing,meat,medium
+Green Park Nursing Home Ltd,3,Human Health and Social Work Activities,nursing home,high
+Blackhall Properties Limited,3,Real Estate Activities,properties,medium
+SASL Restaurants ltd,3,Accommodation and Food Service Activities,restaurants,high
+Ralerno Hotels Limited,3,Accommodation and Food Service Activities,hotels,high
+Hotel Doolin Limited,3,Accommodation and Food Service Activities,hotel,high
+Hotel Kilkenny Limited,3,Accommodation and Food Service Activities,hotel,high
+Howard Farms Limited,3,"Agriculture, Forestry and Fishing",farms,medium
+Prime Steak Restaurant 2012 Limited,3,Accommodation and Food Service Activities,restaurant,high
+PW Renovation and Construction Limited,3,Construction,construction,medium
+St. John's Hospital,3,Human Health and Social Work Activities,hospital,high
+Heatec Plumbing Contractors Limited,3,Construction,plumbing,medium
+Shrewsbury House Nursing Home Limited,3,Human Health and Social Work Activities,nursing home,high
+Silvergrove Nursing Home Limited,3,Human Health and Social Work Activities,nursing home,high
+Borris Lodge Nursing Home Ltd,3,Human Health and Social Work Activities,nursing home,high
+Sheelin Nursing Home Ltd,3,Human Health and Social Work Activities,nursing home,high
+H J Lyons (Architects) Limited,3,"Professional, Scientific and Technical Activities",architects,medium
+Beton Construction Services Ltd,3,Construction,construction,medium
+Roseville Nursing Home Ltd,3,Human Health and Social Work Activities,nursing home,high
+Rook Farm Dairy,3,Manufacturing,dairy,medium
+Rivervale Nursing Home Ltd.,3,Human Health and Social Work Activities,nursing home,high
+RKD Architects Ltd,3,"Professional, Scientific and Technical Activities",architects,medium
+Heights Hospitality Operations,3,Accommodation and Food Service Activities,hospitality,medium
+Hampton's Bar & Grill Limited,3,Accommodation and Food Service Activities,bar,medium
+Valentia Nursing Home Ltd,3,Human Health and Social Work Activities,nursing home,high
+Sandvik Mining & Construction Logistics Ltd,3,Construction,construction,medium
+Hanrahan Farms Ltd,3,"Agriculture, Forestry and Fishing",farms,medium
+Sacre Coeur Nursing Home Limited,3,Human Health and Social Work Activities,nursing home,high
+Doran Management Financial Services Limited,3,Financial and Insurance Activities,financial services,medium
+Lotus Bar Limited,3,Accommodation and Food Service Activities,bar,medium
+Value Retail Management Ireland Limited,3,Wholesale and Retail Trade,retail,medium
+Westrock Healthcare Packaging Irl LTD,3,Human Health and Social Work Activities,healthcare,medium
+Whelan Food & Meat Processors Unlimited Company,2,Manufacturing,meat,medium
+Windsor Motors Unlimited Company,2,Wholesale and Retail Trade,motors,medium
+Willoway Nursing Home Ltd,2,Human Health and Social Work Activities,nursing home,high
+ARDHEALY SUPERMARKET LIMITED,2,Wholesale and Retail Trade,supermarket,medium
+Anthony Reddy Associates Architects Limited,2,"Professional, Scientific and Technical Activities",architects,medium
+Annebrook Hotel Partnership,2,Accommodation and Food Service Activities,hotel,high
+ANM Retail Ltd,2,Wholesale and Retail Trade,retail,medium
+Transton Logistics Limited,2,Transportation and Storage,logistics,medium
+Droimnín Nursing Home Ltd,2,Human Health and Social Work Activities,nursing home,high
+Westward Garage Ltd,2,Wholesale and Retail Trade,garage,medium
+Waterford/Wexford Mental Health Services,2,Human Health and Social Work Activities,health services,medium
+Villa Rose Hotel Ltd,2,Accommodation and Food Service Activities,hotel,high
+Vantage Bars Ltd,2,Accommodation and Food Service Activities,bars,medium
+Churchview Motors Ltd,2,Wholesale and Retail Trade,motors,medium
+Christie Dental,2,Human Health and Social Work Activities,dental,high
+Arena Hospitality Ltd,2,Accommodation and Food Service Activities,hospitality,medium
+Doreen's Bakery Limited,2,Manufacturing,bakery,medium
+Yamamori Sushi Ltd,2,Accommodation and Food Service Activities,sushi,medium
+Xing Rui Cheng Construction Engineering Co. Limited,2,Construction,construction,medium
+Amber Health Care Limited,2,Human Health and Social Work Activities,health care,medium
+Acmore Construction,2,Construction,construction,medium
+S&L Pharmacies Limited,2,Wholesale and Retail Trade,pharmacies,medium
+Health Service Executive - CHO6,2,Human Health and Social Work Activities,health service executive,high
+Hayes Solicitors,2,"Professional, Scientific and Technical Activities",solicitors,medium
+Halpenny Transport Ltd,2,Transportation and Storage,transport,medium
+Gubleagh Farms Ltd,2,"Agriculture, Forestry and Fishing",farms,medium
+S (Transport) Cork Limited,2,Transportation and Storage,transport,medium
+Bilingual Early Learning Childcare Limited,2,Human Health and Social Work Activities,childcare,medium
+Bibi's Restaurant Limited,2,Accommodation and Food Service Activities,restaurant,high
+Bewley's Cafe Grafton Street Limited,2,Accommodation and Food Service Activities,cafe,medium
+Beech Tree Healthcare limited,2,Human Health and Social Work Activities,healthcare,medium
+Rosenalee Care Centre Ltd,2,Human Health and Social Work Activities,care centre,high
+Rosapenna Hotel Management Limited,2,Accommodation and Food Service Activities,hotel,high
+Cross Agricultural Engineering Ltd,2,"Agriculture, Forestry and Fishing",agricultural,medium
+Cover-More Blue Insurance Services Ltd,2,Financial and Insurance Activities,insurance,medium
+Coughlan Farming Ltd,2,"Agriculture, Forestry and Fishing",farming,medium
+Health Service Executive DML (Midland Area),2,Human Health and Social Work Activities,health service executive,high
+Rhenus Logistics Limited,2,Transportation and Storage,logistics,medium
+Sheephaven Properties,2,Real Estate Activities,properties,medium
+Gortroe Nursing Home Ltd,2,Human Health and Social Work Activities,nursing home,high
+Good Counsel Nursing Home Ltd,2,Human Health and Social Work Activities,nursing home,high
+Golden Elephant Restaurant & Takeaway Limited,2,Accommodation and Food Service Activities,restaurant,high
+SDR Restaurants Limited,2,Accommodation and Food Service Activities,restaurants,high
+Bollywood Temple Restaurant Limited,2,Accommodation and Food Service Activities,restaurant,high
+Hilton Hotels Ireland Ltd,2,Accommodation and Food Service Activities,hotels,high
+Hermitage Motors Ltd,2,Wholesale and Retail Trade,motors,medium
+Herb Street Restaurant Limited,2,Accommodation and Food Service Activities,restaurant,high
+Rath Hospitality,2,Accommodation and Food Service Activities,hospitality,medium
+Beautiful Minds Creche and Montessori Limited,2,Human Health and Social Work Activities,creche,medium
+Bank of China (Europe) S.A.,2,Financial and Insurance Activities,bank,medium
+Slieve Russell Hotel Property Limited,2,Accommodation and Food Service Activities,hotel,high
+Dempsey Mullen Accountants,2,"Professional, Scientific and Technical Activities",accountants,medium
+Deloitte Services Unlimited Company,2,"Professional, Scientific and Technical Activities",deloitte,high
+Dds Brady Farms Limited,2,"Agriculture, Forestry and Fishing",farms,medium
+Da Vincis Restaurant Ltd,2,Accommodation and Food Service Activities,restaurant,high
+Cumnor Construction Limited,2,Construction,construction,medium
+Skeagh Farms Unlimited Company,2,"Agriculture, Forestry and Fishing",farms,medium
+Plus 55 Barber Shop Ltd,2,Other Service Activities,barber,medium
+Penco Insurances Ltd,2,Financial and Insurance Activities,insurance,medium
+PCE Coaches Limited,2,Transportation and Storage,coaches,medium
+Paulie's Pizza Limited,2,Accommodation and Food Service Activities,pizza,high
+Pat O'Driscoll Civil Engineering Limited,2,Construction,civil engineering,medium
+Pat Corrigan Transport LTD,2,Transportation and Storage,transport,medium
+Irish Dairy Services (Portlaoise) Ltd,2,Manufacturing,dairy,medium
+Inishowen Motors (J MC L) Limited,2,Wholesale and Retail Trade,motors,medium
+Imperial Hotel Cork,2,Accommodation and Food Service Activities,hotel,high
+IMK Law Solicitors,2,"Professional, Scientific and Technical Activities",solicitors,medium
+Iggy Madden Transport Limited,2,Transportation and Storage,transport,medium
+HSE North Dublin Mental Health Services,2,Human Health and Social Work Activities,hse,high
+Ballinderry Nursing Home Limited,2,Human Health and Social Work Activities,nursing home,high
+Ballinamoney Farms Unlimited Company,2,"Agriculture, Forestry and Fishing",farms,medium
+Backloading Transport Services Ltd,2,Transportation and Storage,transport,medium
+St. Attracta's Nursing Home UC,2,Human Health and Social Work Activities,nursing home,high
+St Patrick's Mental Health Services,2,Human Health and Social Work Activities,health services,medium
+George Savage Transport Limited,2,Transportation and Storage,transport,medium
+GCS Veterinary Limited,2,"Professional, Scientific and Technical Activities",veterinary,medium
+Gas Networks Ireland,2,"Electricity, Gas, Steam and Air Conditioning Supply",gas networks ireland,high
+Garyowen Transport Ltd,2,Transportation and Storage,transport,medium
+P. Hayes Haulage Ltd,2,Transportation and Storage,haulage,medium
+J.F. Building and Civil Engineering Contractors Limited,2,Construction,civil engineering,medium
+J Bar Hospitality Ltd,2,Accommodation and Food Service Activities,bar,medium
+Cork University Maternity Hospital,2,Human Health and Social Work Activities,hospital,high
+Copper Mine Bar Limited,2,Accommodation and Food Service Activities,bar,medium
+CONROY CROWE KELLY ARCHITECTS LIMITED,2,"Professional, Scientific and Technical Activities",architects,medium
+O'Mahony Pike Architects Limited,2,"Professional, Scientific and Technical Activities",architects,medium
+Tansey Transport Limited,2,Transportation and Storage,transport,medium
+Tani Restaurants Limited,2,Accommodation and Food Service Activities,restaurants,high
+Tall Trees Childcare Limited,2,Human Health and Social Work Activities,childcare,medium
+T8 Restaurant & Bubble Tea Limited,2,Accommodation and Food Service Activities,restaurant,high
+Synergy Coffee Company,2,Accommodation and Food Service Activities,coffee,medium
+Swan Recruitment Limited,2,Administrative and Support Service Activities,recruit,medium
+Francis Ely Transport Limited,2,Transportation and Storage,transport,medium
+Foxfield Properties Ltd,2,Real Estate Activities,properties,medium
+Summerville Healthcare Limited,2,Human Health and Social Work Activities,healthcare,medium
+Cafe Presse Ltd,2,Accommodation and Food Service Activities,cafe,medium
+Cabinteely Senior Football Club Limited,2,"Arts, Entertainment and Recreation",football club,medium
+John Curran and Sons Construction Ltd,2,Construction,construction,medium
+JJ O'Malley's Bar Limited,2,Accommodation and Food Service Activities,bar,medium
+JGM Transport Ltd,2,Transportation and Storage,transport,medium
+National Orthopaedic Hospital Cappagh DAC,2,Human Health and Social Work Activities,hospital,high
+The Brooklodge Hotel Partnership,2,Accommodation and Food Service Activities,hotel,high
+Fitzgeralds Family Bakery Ltd,2,Manufacturing,bakery,medium
+Europlan Personnel Services Limited,2,Administrative and Support Service Activities,personnel,medium
+Euro Plaza Hotel Limited,2,Accommodation and Food Service Activities,hotel,high
+Euro Insurances DAC,2,Financial and Insurance Activities,insurance,medium
+Technological University of the Shannon: Midlands Midwest,2,Education,technological university,high
+Technological University Dublin,2,Education,technological university,high
+MPC Learning Tree Crèche and Montessori CLG,2,Human Health and Social Work Activities,creche,medium
+Mount Leinster Haulage Ltd,2,Transportation and Storage,haulage,medium
+Mount Hanover Farms Limited,2,"Agriculture, Forestry and Fishing",farms,medium
+Kernel Construction Limited,2,Construction,construction,medium
+Keeraun Hospitality Limited,2,Accommodation and Food Service Activities,hospitality,medium
+Johnstown Veterinary Services Limited,2,"Professional, Scientific and Technical Activities",veterinary,medium
+Monami Construction Ltd,2,Construction,construction,medium
+Mill Park Hotel Ltd,2,Accommodation and Food Service Activities,hotel,high
+Mile Tree Farms Limited,2,"Agriculture, Forestry and Fishing",farms,medium
+Miami Cafe Dun Laoghaire Limited,2,Accommodation and Food Service Activities,cafe,medium
+Ashleigh Farms (Waterford) Limited,2,"Agriculture, Forestry and Fishing",farms,medium
+Emerald Restaurants Limited,2,Accommodation and Food Service Activities,restaurants,high
+Elder Nursing Homes Charleville Ltd,2,Human Health and Social Work Activities,nursing home,high
+Dimples Creche & Montessori Limited,2,Human Health and Social Work Activities,creche,medium
+DFDS Logistics Contracts (Ireland) Ltd,2,Transportation and Storage,logistics,medium
+The Westport Plaza and Castlecourt Hotel Resort Unlimited Company,2,Accommodation and Food Service Activities,hotel,high
+The Talbot Lodge Hotel Ltd,2,Accommodation and Food Service Activities,hotel,high
+Merrion Row Restaurants limited,2,Accommodation and Food Service Activities,restaurants,high
+McKenna Haulage Limited,2,Transportation and Storage,haulage,medium
+College Green Hotel Limited,2,Accommodation and Food Service Activities,hotel,high
+Coffee Angel Limited,2,Accommodation and Food Service Activities,coffee,medium
+Mcdonnell Hospitality Limited,2,Accommodation and Food Service Activities,hospitality,medium
+CG Hotel Dublin Airport Limited,2,Accommodation and Food Service Activities,hotel,high
+Celestine Cafe Bar Limited,2,Accommodation and Food Service Activities,cafe,medium
+Carters Childcare Limited,2,Human Health and Social Work Activities,childcare,medium
+Mc Nena Construction Ltd,2,Construction,construction,medium
+Maynooth University,2,Education,university,high
+Maylin Dental Ltd,2,Human Health and Social Work Activities,dental,high
+Matthew & Son Cafe Limited,2,Accommodation and Food Service Activities,cafe,medium
+Mary Immaculate College,2,Education,college,high
+Market Alley Bars Limited,2,Accommodation and Food Service Activities,bars,medium
+KP Crown Dental Limited,2,Human Health and Social Work Activities,dental,high
+KOR Retail Limited,2,Wholesale and Retail Trade,retail,medium
+Kokoro Sushi Bento Limited,2,Accommodation and Food Service Activities,sushi,medium
+Knox Security Services Limited,2,Administrative and Support Service Activities,security services,medium
+Knockhall Farms ULC,2,"Agriculture, Forestry and Fishing",farms,medium
+Knockanes Hotels Limited,2,Accommodation and Food Service Activities,hotels,high
+Tormeys Superior Meats Limited,2,Manufacturing,meats,medium
+Topaz Transport Limited,2,Transportation and Storage,transport,medium
+Tom & Carmel Supple & Totl Farms Limited,2,"Agriculture, Forestry and Fishing",farms,medium
+Tipperary Healthcare Limited,2,Human Health and Social Work Activities,healthcare,medium
+Derry White Agricultural Contractors Ltd,2,"Agriculture, Forestry and Fishing",agricultural,medium
+Derek Byrne Construction Ltd.,2,Construction,construction,medium
+Dundalk Institute of Technology,2,Education,institute of technology,high
+Dublin College of Advanced Studies Limited,2,Education,college,high
+Thomas Harrington Heating & Plumbing Ltd,2,Construction,plumbing,medium
+ASQUARED Retail Ltd,2,Wholesale and Retail Trade,retail,medium
+Kilronan Castle Hotel Limited,2,Accommodation and Food Service Activities,hotel,high
+Kilmurry Lodge Hotel Limited,2,Accommodation and Food Service Activities,hotel,high
+Killinkere Farms Unlimited Company,2,"Agriculture, Forestry and Fishing",farms,medium
+LBR Pharmacy Limited,2,Wholesale and Retail Trade,pharmacy,medium
+Larry Aylward Construction Limited,2,Construction,construction,medium
+Laragan Farms Ltd,2,"Agriculture, Forestry and Fishing",farms,medium
+L.D.N. Motors Limited,2,Wholesale and Retail Trade,motors,medium
+Mackee Construction Limited,2,Construction,construction,medium
+Cleary & Doyle Construction Limited,2,Construction,construction,medium
+Classes Lake Pharmacy Ltd,2,Wholesale and Retail Trade,pharmacy,medium
+Claremount Nursing Home Ltd,2,Human Health and Social Work Activities,nursing home,high
+Clareco Scaffolding Ltd,2,Construction,scaffold,medium
+University College Dublin Foundation CLG,2,Education,university,high
+Acapulco Mexican Restaurant Ltd,2,Accommodation and Food Service Activities,restaurant,high
+Able Healthcare Ltd,2,Human Health and Social Work Activities,healthcare,medium
+ABC Nursery and Montessori Limited,2,Education,montessori,medium
+Alstom Transport Ireland Limited,1,Transportation and Storage,transport,medium
+3Q Recruitment Ltd,1,Administrative and Support Service Activities,recruit,medium
+Acorn Healthcare Ltd,1,Human Health and Social Work Activities,healthcare,medium
+AF Construction Limited,1,Construction,construction,medium
+Aghadoe Hospitality Ltd,1,Accommodation and Food Service Activities,hospitality,medium
+Anastasia Barbers Limited,1,Other Service Activities,barbers,medium
+Andrews Construction Limited,1,Construction,construction,medium
+Urban Pizza Limited,1,Accommodation and Food Service Activities,pizza,high
+Anothai & EU Restaurant,1,Accommodation and Food Service Activities,restaurant,high
+Trinity College Dublin Academy of Dramatic Arts - The Lir Academy,1,Education,college,high
+DSJ Agricultural Holdings Limited,1,"Agriculture, Forestry and Fishing",agricultural,medium
+DSB Retail Outsourcing Limited,1,Wholesale and Retail Trade,retail,medium
+DS & SS Restaurants Ltd,1,Accommodation and Food Service Activities,restaurants,high
+Drumloman Pork Ltd,1,Manufacturing,pork,medium
+Drumcondra Village Dental,1,Human Health and Social Work Activities,dental,high
+West Pier Restaurant Limited,1,Accommodation and Food Service Activities,restaurant,high
+Waterside Hospitality,1,Accommodation and Food Service Activities,hospitality,medium
+Wallace Travel & Transport,1,Transportation and Storage,transport,medium
+Virginia Medical Practice,1,Human Health and Social Work Activities,medical practice,high
+Victoria Towers Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+Transport Insights Limited,1,Transportation and Storage,transport,medium
+TQ Transport Limited,1,Transportation and Storage,transport,medium
+Townlink Construction,1,Construction,construction,medium
+Tortuga Dental Limited,1,Human Health and Social Work Activities,dental,high
+L B Childcare Services Limited,1,Human Health and Social Work Activities,childcare,medium
+KVL Construction Limited,1,Construction,construction,medium
+Mahonys Pharmacy Ltd,1,Wholesale and Retail Trade,pharmacy,medium
+M J Kehoe Transport Ltd,1,Transportation and Storage,transport,medium
+"M & S Cotter Construction, Building & Civil Engineering Limited",1,Construction,construction,medium
+M & C Health Care Limited,1,Human Health and Social Work Activities,health care,medium
+Claridge Farming Ltd,1,"Agriculture, Forestry and Fishing",farming,medium
+Claregalway Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+Clare Road Hotel Services Limited,1,Accommodation and Food Service Activities,hotel,high
+Clare Civil Engineering,1,Construction,civil engineering,medium
+CJ Dairy Farm Limited,1,Manufacturing,dairy,medium
+Citco Bank Nederland NV Dublin Branch,1,Financial and Insurance Activities,bank,medium
+Chung's Restaurant Limited,1,Accommodation and Food Service Activities,restaurant,high
+Christy Collins & Sons Construction ltd,1,Construction,construction,medium
+Louis Fitzgerald Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+Loughrea Restaurant Limited,1,Accommodation and Food Service Activities,restaurant,high
+Marglen Hotels Limited,1,Accommodation and Food Service Activities,hotels,high
+Maple Chinese Restaurant,1,Accommodation and Food Service Activities,restaurant,high
+KJT Motors Ltd,1,Wholesale and Retail Trade,motors,medium
+Kingsmeade Bar Restaurant Ltd,1,Accommodation and Food Service Activities,restaurant,high
+Kinara Restaurant Limited,1,Accommodation and Food Service Activities,restaurant,high
+Kilminnin Farms,1,"Agriculture, Forestry and Fishing",farms,medium
+Killucan Nursing Centre Limited,1,Human Health and Social Work Activities,nursing,medium
+Lilly's Pharmacy Limited,1,Wholesale and Retail Trade,pharmacy,medium
+Lighthouse Montessori School Limited,1,Education,montessori,medium
+Lennon Logistics Ltd,1,Transportation and Storage,logistics,medium
+Laya Healthcare Limited,1,Human Health and Social Work Activities,healthcare,medium
+Laurem Construction Ltd,1,Construction,construction,medium
+Las Tapas Restaurant Greystones Ltd,1,Accommodation and Food Service Activities,restaurant,high
+Lansdowne Lodge Pre-School Montessori Limited,1,Education,school,medium
+Lanigan International Freight Limited,1,Transportation and Storage,freight,medium
+Langton Hotel Ltd,1,Accommodation and Food Service Activities,hotel,high
+McElchar International Transport Limited,1,Transportation and Storage,transport,medium
+McCoy Motors Limited,1,Wholesale and Retail Trade,motors,medium
+McCabes Pharmacy Limited,1,Wholesale and Retail Trade,pharmacy,medium
+Charlesland Pub Limited,1,Accommodation and Food Service Activities,pub,medium
+Celtic Ross Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+CBC Monkstown College,1,Education,college,high
+CB Pub Management Limited,1,Accommodation and Food Service Activities,pub,medium
+Castlemartyr Country Hotel Ltd.,1,Accommodation and Food Service Activities,hotel,high
+Castlekeeran Transport Ltd,1,Transportation and Storage,transport,medium
+Castleforbes College Limited,1,Education,college,high
+Mc Kean Transport Ltd,1,Transportation and Storage,transport,medium
+MC BRIDE ACCOUNTANTS LIMITED,1,"Professional, Scientific and Technical Activities",accountants,medium
+Max Healthcare PVT LTD,1,Human Health and Social Work Activities,healthcare,medium
+Maunsells Garage Ltd,1,Wholesale and Retail Trade,garage,medium
+Martin Jennings Wholesale Limited,1,Wholesale and Retail Trade,wholesale,medium
+Marieanne Hospitality Limited,1,Accommodation and Food Service Activities,hospitality,medium
+Michael Doyle Civil Engineering Ltd,1,Construction,civil engineering,medium
+Michael Dixon International Transport Limited,1,Transportation and Storage,transport,medium
+Mezzo Music Academy Ltd,1,Education,academy,medium
+Metro Cafes Limited,1,Accommodation and Food Service Activities,cafes,medium
+Merchants Arch Restaurants Company Limited,1,Accommodation and Food Service Activities,restaurants,high
+Mega Security Services Ltd,1,Administrative and Support Service Activities,security services,medium
+McNallys Pharmacy365 Ltd,1,Wholesale and Retail Trade,pharmacy,medium
+McGroddy Brennan LLP Solicitors,1,"Professional, Scientific and Technical Activities",solicitors,medium
+Killester Coffee 5D Limited,1,Accommodation and Food Service Activities,coffee,medium
+Killemera Dairy Limited,1,Manufacturing,dairy,medium
+Kill Agricultural Services Ltd,1,"Agriculture, Forestry and Fishing",agricultural,medium
+Kilcumney Arms Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+Collegefort Montessori Ltd,1,Education,montessori,medium
+College Green Beauty Centre Ltd.  T/a Belo Concept,1,Education,college,high
+Cocoon Childcare,1,Human Health and Social Work Activities,childcare,medium
+COB Hotels Limited,1,Accommodation and Food Service Activities,hotels,high
+JOHN KELLEHER JOHN JAMES KELLEHER & KELLEHER DAIRY ENTERPRISES,1,Manufacturing,dairy,medium
+Moondigua Farms LTD,1,"Agriculture, Forestry and Fishing",farms,medium
+Monument Insurance European Services,1,Financial and Insurance Activities,insurance,medium
+Monart House Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+Carrigaline Hotels Limited,1,Accommodation and Food Service Activities,hotels,high
+Carrickdale Enterprises Ltd t/a Carrickdale Hotel,1,Accommodation and Food Service Activities,hotel,high
+Carne Global Financial Services Ltd,1,Financial and Insurance Activities,financial services,medium
+Carlow/Kilkenny Mental Health Services,1,Human Health and Social Work Activities,health services,medium
+Caraden Construction Limited,1,Construction,construction,medium
+Canton Regent Restaurant & Takeaway Limited,1,Accommodation and Food Service Activities,restaurant,high
+Cairn Homes Construction Ltd,1,Construction,construction,medium
+Cahir House Court Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+Cahereen Residential Care Limited,1,Human Health and Social Work Activities,residential care,high
+Mola Architecture Limited,1,"Professional, Scientific and Technical Activities",architect,medium
+Michael White Pump and Dairy Services Limited,1,Manufacturing,dairy,medium
+Michael Hetherton Architectural & Engineering Services Limited,1,"Professional, Scientific and Technical Activities",architect,medium
+Mounttown Motors Limited,1,Wholesale and Retail Trade,motors,medium
+Mountain View Construction Ltd,1,Construction,construction,medium
+Mount Pleasant Construction Limited,1,Construction,construction,medium
+Mount Carmel Nursing Home,1,Human Health and Social Work Activities,nursing home,high
+Morenane Transport Limited,1,Transportation and Storage,transport,medium
+CNP Santander Insurance Services Ireland Limited,1,Financial and Insurance Activities,insurance,medium
+Kiernan Farms (Sligo) Unlimited Company,1,"Agriculture, Forestry and Fishing",farms,medium
+KIA Motors (UK) Ltd,1,Wholesale and Retail Trade,motors,medium
+Kerry Senior Care LTD,1,Human Health and Social Work Activities,senior care,medium
+Kelly's Resort Hotel,1,Accommodation and Food Service Activities,hotel,high
+Kavco Carpentry & Construction Ltd,1,Construction,construction,medium
+JPS Restaurant Services Limited,1,Accommodation and Food Service Activities,restaurant,high
+Jons Civil Engineering Company Limited,1,Construction,civil engineering,medium
+Jones Magee Solicitors,1,"Professional, Scientific and Technical Activities",solicitors,medium
+Jomivic Recruitment Agency(JRA) Health Care Service,1,Administrative and Support Service Activities,recruit,medium
+Johnstown Pharmacy Limited,1,Wholesale and Retail Trade,pharmacy,medium
+Jamaica Coffee Company Limited,1,Accommodation and Food Service Activities,coffee,medium
+Jacob Law LLP Solicitors,1,"Professional, Scientific and Technical Activities",solicitors,medium
+Buckley Farms Limited,1,"Agriculture, Forestry and Fishing",farms,medium
+Brymore House Nursing Home Ltd,1,Human Health and Social Work Activities,nursing home,high
+Norwood Nursing Home Ltd,1,Human Health and Social Work Activities,nursing home,high
+Northside Home Care Services Company Limited by Guarantee,1,Human Health and Social Work Activities,home care,medium
+Noor Restaurant Limited,1,Accommodation and Food Service Activities,restaurant,high
+Nolans Supermarket Limited,1,Wholesale and Retail Trade,supermarket,medium
+Noel Recruitment Ireland Ltd.,1,Administrative and Support Service Activities,recruit,medium
+Newtowncunningham Properties Limited,1,Real Estate Activities,properties,medium
+Newpark Construction Limited,1,Construction,construction,medium
+New Look Bars Limited,1,Accommodation and Food Service Activities,bars,medium
+New Golden House Restaurant Limited,1,Accommodation and Food Service Activities,restaurant,high
+N & W Barry Builders Ltd,1,Construction,builders,medium
+Munster Technological University (MTU),1,Education,technological university,high
+Mullingar Rugby Football Club,1,"Arts, Entertainment and Recreation",football club,medium
+Ocean Poultry Limited,1,Manufacturing,poultry,medium
+O & I Motors Ltd,1,Wholesale and Retail Trade,motors,medium
+Caher Bakery Limited,1,Manufacturing,bakery,medium
+CADA Healthcare Limited,1,Human Health and Social Work Activities,healthcare,medium
+C.O.D Plant and Civil Engineering Limited,1,Construction,civil engineering,medium
+C.Mc Grath Haulage Ltd.,1,Transportation and Storage,haulage,medium
+Byrne O'Byrne Accounting And Tax Advisors Limited,1,"Professional, Scientific and Technical Activities",accounting,medium
+Bunratty Community Childcare Centre Company Limited By Guarantee,1,Human Health and Social Work Activities,care centre,high
+Joe Norris Motors Limited,1,Wholesale and Retail Trade,motors,medium
+JOE MURRAY TRANSPORT LTD,1,Transportation and Storage,transport,medium
+Joe Mallon (Motors) Limited,1,Wholesale and Retail Trade,motors,medium
+JOE & M. MULHERIN FARMING LIMITED,1,"Agriculture, Forestry and Fishing",farming,medium
+JMS Haulage Ltd,1,Transportation and Storage,haulage,medium
+JMB Restaurants Limited,1,Accommodation and Food Service Activities,restaurants,high
+JJV Dairy Enterprises Ltd,1,Manufacturing,dairy,medium
+James M Farrell Farms Ltd,1,"Agriculture, Forestry and Fishing",farms,medium
+Constellation Cold Logistics Midleton Limited,1,Transportation and Storage,logistics,medium
+Constellation Cold Logistics Dublin Limited,1,Transportation and Storage,logistics,medium
+BR Motors T/A Clonskeagh Collection,1,Wholesale and Retail Trade,motors,medium
+P Murphy Accounting & Tax Limited,1,"Professional, Scientific and Technical Activities",accounting,medium
+P & R Takeaway Limited,1,Accommodation and Food Service Activities,takeaway,high
+Outsource Staffing Solutions Limited,1,Administrative and Support Service Activities,staffing,medium
+O'Sullivan Motors and Maintenance Ltd,1,Wholesale and Retail Trade,motors,medium
+Osprey Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+Oracle Financial Services Software B.V,1,Financial and Insurance Activities,financial services,medium
+OPR Health and Fitness Ltd,1,"Arts, Entertainment and Recreation",fitness,medium
+One Hundred Degrees Restaurant and Wine Bar Ltd.,1,Accommodation and Food Service Activities,restaurant,high
+Ó'Mathúna (Hotel) Teoranta,1,Accommodation and Food Service Activities,hotel,high
+Oliver Foudy Motors Ltd,1,Wholesale and Retail Trade,motors,medium
+Old Street Restaurant Limited,1,Accommodation and Food Service Activities,restaurant,high
+O'Keeffe's Bakery Unlimited Company,1,Manufacturing,bakery,medium
+O'Flynn Meats Gracedieu Unlimited,1,Manufacturing,meats,medium
+Brookview Childcare Ltd,1,Human Health and Social Work Activities,childcare,medium
+Brogan Scaffolding IR Ltd,1,Construction,scaffold,medium
+Bright Minds Childcare and Montessori School Limited,1,Human Health and Social Work Activities,childcare,medium
+Brian Grennan Transport Ltd.,1,Transportation and Storage,transport,medium
+Brendan Woods Construction Ltd,1,Construction,construction,medium
+Brelon Builders Limited,1,Construction,builders,medium
+Brandon House Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+Brambles Deli Cafe Limited,1,Accommodation and Food Service Activities,cafe,medium
+"J.O. Aesthetic Consulting Ltd, T/A The Glow Clinic",1,Human Health and Social Work Activities,clinic,high
+J.J. Crowley (Construction) Limited,1,Construction,construction,medium
+Corrick Bridge Pig Farms,1,"Agriculture, Forestry and Fishing",farms,medium
+Cornmarket Group Financial Services,1,Financial and Insurance Activities,financial services,medium
+Corbally House Nursing Home,1,Human Health and Social Work Activities,nursing home,high
+Coolim Construction Limited,1,Construction,construction,medium
+Coogan Meats Limited,1,Manufacturing,meats,medium
+Conway's Pharmacy Limited,1,Wholesale and Retail Trade,pharmacy,medium
+Perola Padilha Clinic SPA Limited,1,Human Health and Social Work Activities,clinic,high
+People First Credit Union,1,Financial and Insurance Activities,credit union,medium
+Peerview Limited t/a Murray's Pharmacy,1,Wholesale and Retail Trade,pharmacy,medium
+Peake Dairy Services Limited,1,Manufacturing,dairy,medium
+Pat O Connell Farms (Feohanagh) Ltd,1,"Agriculture, Forestry and Fishing",farms,medium
+Irish Life Financial Services Ltd,1,Financial and Insurance Activities,financial services,medium
+Inua Limerick General Partner Limited T/A Radisson Blu Hotel Spa Limerick,1,Accommodation and Food Service Activities,hotel,high
+Inua Hospitality General Partner Limited,1,Accommodation and Food Service Activities,hospitality,medium
+Inland Properties Limited,1,Real Estate Activities,properties,medium
+ING European Financial Services PLC,1,Financial and Insurance Activities,financial services,medium
+Infinity Restaurant Ltd.,1,Accommodation and Food Service Activities,restaurant,high
+Hydro Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+Parsons Garage Ltd,1,Wholesale and Retail Trade,garage,medium
+P.N.L Restaurants Limited,1,Accommodation and Food Service Activities,restaurants,high
+P.J. RIGNEY DISTILLERY AND INTERNATIONAL BRANDS LIMITED,1,Manufacturing,distillery,medium
+P&J Farms Limited,1,"Agriculture, Forestry and Fishing",farms,medium
+Blackbull Farms Limited,1,"Agriculture, Forestry and Fishing",farms,medium
+Refresh Hospitality Services Limited,1,Accommodation and Food Service Activities,hospitality,medium
+Redhills Transport Ltd,1,Transportation and Storage,transport,medium
+Raheen Woods Hotel (Athenry) Ltd,1,Accommodation and Food Service Activities,hotel,high
+R. Banville Construction Services Ltd,1,Construction,construction,medium
+R & M Restaurant Limited,1,Accommodation and Food Service Activities,restaurant,high
+Quinn's Bar & Restaurant Ltd,1,Accommodation and Food Service Activities,restaurant,high
+Purcell Construction Limited,1,Construction,construction,medium
+Provincial Security Services Limited,1,Administrative and Support Service Activities,security services,medium
+Premier Fire Proofing Ltd,1,Construction,roofing,medium
+Portobello School Limited,1,Education,school,medium
+Planters Coffee Shop ltd,1,Accommodation and Food Service Activities,coffee,medium
+PJ Fahy Transport Ltd,1,Transportation and Storage,transport,medium
+Pizza Dog Ltd,1,Accommodation and Food Service Activities,pizza,high
+Philip O'Brien Farms Limited,1,"Agriculture, Forestry and Fishing",farms,medium
+Peter Farrell Farms Ltd,1,"Agriculture, Forestry and Fishing",farms,medium
+Retail Financial & Accounting Solutions Ltd,1,"Professional, Scientific and Technical Activities",accounting,medium
+Retail Detail,1,Wholesale and Retail Trade,retail,medium
+Boyle Tapas Restaurant Limited,1,Accommodation and Food Service Activities,restaurant,high
+Boots Retail (Ireland) Limited,1,Wholesale and Retail Trade,retail,medium
+Body Blast Fitness Ltd,1,"Arts, Entertainment and Recreation",fitness,medium
+Bluestone Personnel Limited,1,Administrative and Support Service Activities,personnel,medium
+Bloomfield Hotel Ltd,1,Accommodation and Food Service Activities,hotel,high
+Blarney Nursing & Retirement Home Limited,1,Human Health and Social Work Activities,nursing,medium
+Blackrock College RFC,1,Education,college,high
+HRM Recruitment Limited,1,Administrative and Support Service Activities,recruit,medium
+Howden Insurance (Ireland) Limited,1,Financial and Insurance Activities,insurance,medium
+Holyrood Hotel (Bundoran) Limited,1,Accommodation and Food Service Activities,hotel,high
+Hillmount Properties Limited,1,Real Estate Activities,properties,medium
+Higtyr Construction Ltd,1,Construction,construction,medium
+Hibernia College Unlimited Company,1,Education,college,high
+Hermitage Farms Unlimited Company,1,"Agriculture, Forestry and Fishing",farms,medium
+Romina and Daniel Hair and Beauty Ltd,1,Other Service Activities,hair,medium
+Rolleston McElwee Solicitors LLP,1,"Professional, Scientific and Technical Activities",solicitors,medium
+Rochefreight (Ireland) Limited,1,Transportation and Storage,freight,medium
+Riverville Dairy Ltd,1,Manufacturing,dairy,medium
+Health Services Staffs Credit Union Limited,1,Human Health and Social Work Activities,health services,medium
+Health Service Executive NW,1,Human Health and Social Work Activities,health service executive,high
+Cullen Cleaning Unlimited Company,1,Administrative and Support Service Activities,cleaning,medium
+Crowe Meats (Dundrum) Limited,1,Manufacturing,meats,medium
+Cross Retail Convenience Group Ltd,1,Wholesale and Retail Trade,retail,medium
+Crane Worldwide Logistics Ireland Limited,1,Transportation and Storage,logistics,medium
+Crag Meat Supply Limited,1,Manufacturing,meat,medium
+Coyne Solicitors,1,"Professional, Scientific and Technical Activities",solicitors,medium
+Coven hair & Beauty Ltd,1,Other Service Activities,hair,medium
+Corstown Farms Limited,1,"Agriculture, Forestry and Fishing",farms,medium
+Riverside Care Centre Limited,1,Human Health and Social Work Activities,care centre,high
+Richard Black Solicitors,1,"Professional, Scientific and Technical Activities",solicitors,medium
+Black Dog Bar and Nightclub Limited,1,Accommodation and Food Service Activities,bar,medium
+BHA Construction Limited,1,Construction,construction,medium
+Beresford Personnel Ltd,1,Administrative and Support Service Activities,personnel,medium
+Berco Creche Ltd,1,Human Health and Social Work Activities,creche,medium
+Bennett ( Construction) LTD,1,Construction,construction,medium
+Bellview Clinic Partnership,1,Human Health and Social Work Activities,clinic,high
+Bello Dental Limited,1,Human Health and Social Work Activities,dental,high
+Beechwood House Nursing Home Limited,1,Human Health and Social Work Activities,nursing home,high
+Beechwood Childcare,1,Human Health and Social Work Activities,childcare,medium
+Beechlands Dairy Ltd,1,Manufacturing,dairy,medium
+Ryecourt Clinic,1,Human Health and Social Work Activities,clinic,high
+Royal Victoria Eye & Ear Hospital,1,Human Health and Social Work Activities,hospital,high
+Rosemount Nursing Home Limited,1,Human Health and Social Work Activities,nursing home,high
+Roscrea Medical Practice,1,Human Health and Social Work Activities,medical practice,high
+Rory Lynch Transport Limited,1,Transportation and Storage,transport,medium
+Rongs Wholesale Limited,1,Wholesale and Retail Trade,wholesale,medium
+Sanjays Kitchen Indian Restaurant Limited,1,Accommodation and Food Service Activities,restaurant,high
+Sandycove Pharmacy Ltd,1,Wholesale and Retail Trade,pharmacy,medium
+Sandman Hotel Group Ireland,1,Accommodation and Food Service Activities,hotel,high
+Sandman Hotel Group (Ireland) Limited,1,Accommodation and Food Service Activities,hotel,high
+Sallins Medical Centre,1,Human Health and Social Work Activities,medical centre,high
+Sajjad Hussain T/A Poppadom Restaurant,1,Accommodation and Food Service Activities,restaurant,high
+Saint Louis Nursing Home Limited,1,Human Health and Social Work Activities,nursing home,high
+Saint Gobain Construction Products Ireland Limited,1,Construction,construction,medium
+S.A Global Healthcare Limited,1,Human Health and Social Work Activities,healthcare,medium
+Harmonydent Ltd/ Harmony Dental,1,Human Health and Social Work Activities,dental,high
+Harmony Beauty Clinic,1,Human Health and Social Work Activities,clinic,high
+Hanton Coaches Ltd.,1,Transportation and Storage,coaches,medium
+Hanrahard Farms Ltd,1,"Agriculture, Forestry and Fishing",farms,medium
+Hannon Logistics Limited,1,Transportation and Storage,logistics,medium
+Halligan Architects Ltd,1,"Professional, Scientific and Technical Activities",architects,medium
+GXO Logistics Ireland Limited,1,Transportation and Storage,logistics,medium
+Shepherds Hill Farms Limited,1,"Agriculture, Forestry and Fishing",farms,medium
+Sharavogue School Limited,1,Education,school,medium
+Servisource Healthcare Limited,1,Human Health and Social Work Activities,healthcare,medium
+Securitas Security Services (Ireland) Limited,1,Administrative and Support Service Activities,security services,medium
+Seclusion Properties Limited,1,Real Estate Activities,properties,medium
+Seapoint Clinic,1,Human Health and Social Work Activities,clinic,high
+Sean Brady Construction & Engineering Limited,1,Construction,construction,medium
+Griffith College Co-Ownership,1,Education,college,high
+Greysal Restaurants Ltd,1,Accommodation and Food Service Activities,restaurants,high
+Greyhound Hospitality Ltd,1,Accommodation and Food Service Activities,hospitality,medium
+Great National Hotels & Resorts,1,Accommodation and Food Service Activities,hotels,high
+GQZ Takeaway Ltd,1,Accommodation and Food Service Activities,takeaway,high
+Gotham City Cafe Ltd,1,Accommodation and Food Service Activities,cafe,medium
+Golden Nursing Homes Ltd,1,Human Health and Social Work Activities,nursing home,high
+Goggins Transport Company Limited,1,Transportation and Storage,transport,medium
+Schneider Electric IT Logistics Europe Limited,1,Transportation and Storage,logistics,medium
+Barróg Healthcare Limited,1,Human Health and Social Work Activities,healthcare,medium
+Bar-One Racing Ltd,1,Accommodation and Food Service Activities,bar,medium
+Barlo Motors Limited,1,Wholesale and Retail Trade,motors,medium
+Sneem House Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+SMD Solicitors,1,"Professional, Scientific and Technical Activities",solicitors,medium
+Sligo Park Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+Denis Byrne Architects Ltd,1,"Professional, Scientific and Technical Activities",architects,medium
+Delfin English School Limited,1,Education,school,medium
+Dealgan House Nursing Home Limited,1,Human Health and Social Work Activities,nursing home,high
+Darragh O'Regan Motors Limited,1,Wholesale and Retail Trade,motors,medium
+Daly Farrell Chartered Accountants,1,"Professional, Scientific and Technical Activities",accountants,medium
+D Corcoran & W King Dairy Operation,1,Manufacturing,dairy,medium
+D and W O Driscoll Farms Limited,1,"Agriculture, Forestry and Fishing",farms,medium
+Glasha Farms Limited,1,"Agriculture, Forestry and Fishing",farms,medium
+Skr Supermarket Limited,1,Wholesale and Retail Trade,supermarket,medium
+Siam Asian Bistro Limited,1,Accommodation and Food Service Activities,bistro,medium
+Spa Transport Ltd,1,Transportation and Storage,transport,medium
+South Tipperary Mental Health Services,1,Human Health and Social Work Activities,health services,medium
+GL Meats Limited,1,Manufacturing,meats,medium
+Giraffe Childcare Limited,1,Human Health and Social Work Activities,childcare,medium
+Gilligans Farm Fresh Meats Limited,1,Manufacturing,meats,medium
+Gerard Coughlan Haulage Ltd,1,Transportation and Storage,haulage,medium
+George Corbett Motors Limited,1,Wholesale and Retail Trade,motors,medium
+GEM Construction Company Limited,1,Construction,construction,medium
+Gearys Garage Ltd,1,Wholesale and Retail Trade,garage,medium
+GB Hair Salon Limited,1,Other Service Activities,hair,medium
+Gary Greene Accounting and Taxation Services Limited,1,"Professional, Scientific and Technical Activities",accounting,medium
+Source & Supply Logistics Limited,1,Transportation and Storage,logistics,medium
+Sorrento Takeaway Limited,1,Accommodation and Food Service Activities,takeaway,high
+Solas After-School Project Company Limited by Guarantee,1,Education,school,medium
+Barry Quinn Transport Ltd,1,Transportation and Storage,transport,medium
+Barry M Whelan Recruitment Limited,1,Administrative and Support Service Activities,recruit,medium
+Suirside Construction Ltd.,1,Construction,construction,medium
+Stillorgan Park Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+Stella Maris Residential Care Limited,1,Human Health and Social Work Activities,residential care,high
+Ballywalter Farms Limited,1,"Agriculture, Forestry and Fishing",farms,medium
+Ballymore Farms Ltd,1,"Agriculture, Forestry and Fishing",farms,medium
+Ballyfermot Pharmacy Ltd,1,Wholesale and Retail Trade,pharmacy,medium
+Ballyburden Meat Processors Ltd,1,Manufacturing,meat,medium
+Ballinroe Transport Co Ltd,1,Transportation and Storage,transport,medium
+Ballina Castle Hotel Ltd,1,Accommodation and Food Service Activities,hotel,high
+Balbriggan Dental Services Limited,1,Human Health and Social Work Activities,dental,high
+St. Helen's Hotel Unlimited Company,1,Accommodation and Food Service Activities,hotel,high
+St. David's Nursing Home Limited,1,Human Health and Social Work Activities,nursing home,high
+St. Columcille's Hospital,1,Human Health and Social Work Activities,hospital,high
+St. Aidan's Community School,1,Education,school,medium
+St Michaels Hospital,1,Human Health and Social Work Activities,hospital,high
+SS&C Financial Services (Ireland) Limited,1,Financial and Insurance Activities,financial services,medium
+Taoa Retail Limited,1,Wholesale and Retail Trade,retail,medium
+Talbot Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+Talbot Building & Civil Engineering Ltd,1,Construction,civil engineering,medium
+Swords Manor Retail,1,Wholesale and Retail Trade,retail,medium
+Sutton Park School,1,Education,school,medium
+Garryduff Dairy Farm Limited,1,Manufacturing,dairy,medium
+Garravoone Farms Limited,1,"Agriculture, Forestry and Fishing",farms,medium
+Gallaghers Seafood Restaurant Ltd,1,Accommodation and Food Service Activities,restaurant,high
+G.C.E Property Construction Limited,1,Construction,construction,medium
+Frank Mc Carthy Haulage Ltd,1,Transportation and Storage,haulage,medium
+Frances Foley Community Pharmacy Ltd,1,Wholesale and Retail Trade,pharmacy,medium
+Four Seasons Hotel (Carlingford) Limited,1,Accommodation and Food Service Activities,hotel,high
+Flynn Transport Ltd,1,Transportation and Storage,transport,medium
+Flannerys Bar Glasheen Ltd,1,Accommodation and Food Service Activities,bar,medium
+FJ Restaurants Limited,1,Accommodation and Food Service Activities,restaurants,high
+Fitzwilliam Hotel Group Ltd,1,Accommodation and Food Service Activities,hotel,high
+The Dunraven Arms Hotel,1,Accommodation and Food Service Activities,hotel,high
+The Collective Hospitality Ltd,1,Accommodation and Food Service Activities,hospitality,medium
+The Artisan Pizza Company Limited,1,Accommodation and Food Service Activities,pizza,high
+Terenure Sports Club,1,"Arts, Entertainment and Recreation",sports club,medium
+Templeogue College C.S.Sp.,1,Education,college,high
+Templeisque Dairy Farm Ltd,1,Manufacturing,dairy,medium
+Temple Gate Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+Fields Retail Limited,1,Wholesale and Retail Trade,retail,medium
+Fentons Garage Limited,1,Wholesale and Retail Trade,garage,medium
+Faneside Transport Limited,1,Transportation and Storage,transport,medium
+Fairies Cross Medical Centre,1,Human Health and Social Work Activities,medical centre,high
+F.D.C. Accountants - Tax Consultants Limited,1,"Professional, Scientific and Technical Activities",accountants,medium
+F R S Recruitment Society Limited,1,Administrative and Support Service Activities,recruit,medium
+Excel Roofing Systems Ltd,1,Construction,roofing,medium
+TBD Retail Limited,1,Wholesale and Retail Trade,retail,medium
+TBB Fitness Limited,1,"Arts, Entertainment and Recreation",fitness,medium
+The West Cork Hotel Ltd,1,Accommodation and Food Service Activities,hotel,high
+The Tram Cafe Limited,1,Accommodation and Food Service Activities,cafe,medium
+The Stepstone Group Ireland Recruit Limited,1,Administrative and Support Service Activities,recruit,medium
+The Society of Chartered Surveyors Ireland,1,"Professional, Scientific and Technical Activities",surveyors,medium
+The Secret Bar Limited,1,Accommodation and Food Service Activities,bar,medium
+The Royal Hospital Donnybrook,1,Human Health and Social Work Activities,hospital,high
+The Royal Dublin Golf Club,1,"Arts, Entertainment and Recreation",golf club,medium
+The Queen's Hotel,1,Accommodation and Food Service Activities,hotel,high
+The Piranha Bar Limited,1,Accommodation and Food Service Activities,bar,medium
+The Pink Nails,1,Other Service Activities,nails,medium
+The Oval Creche,1,Human Health and Social Work Activities,creche,medium
+The Moorings at The Bridge Bar Ltd,1,Accommodation and Food Service Activities,bar,medium
+THE LEFT BANK BISTRO LIMITED,1,Accommodation and Food Service Activities,bistro,medium
+The Holygrail Restaurant Wexford Limited,1,Accommodation and Food Service Activities,restaurant,high
+The Grace Hotel Unlimited Company,1,Accommodation and Food Service Activities,hotel,high
+The Eden Pizza Company Limited,1,Accommodation and Food Service Activities,pizza,high
+Tierney Kitchens Retail Ltd,1,Wholesale and Retail Trade,retail,medium
+Thomas Davis GAA Club,1,"Arts, Entertainment and Recreation",gaa,medium
+The Wyatt Hotel Unlimited,1,Accommodation and Food Service Activities,hotel,high
+Aughey O’Flaherty Architects Limited,1,"Professional, Scientific and Technical Activities",architects,medium
+ASL Airlines (Ireland) Limited,1,Transportation and Storage,airlines,medium
+Ashbourne Pubs Limited,1,Accommodation and Food Service Activities,pubs,medium
+Eoin Gavin Transport Ltd,1,Transportation and Storage,transport,medium
+DLS Language School LTD,1,Education,school,medium
+DJH Accountants Ireland,1,"Professional, Scientific and Technical Activities",accountants,medium
+Discoveries Creche and Montessori Limited,1,Human Health and Social Work Activities,creche,medium
+Discover School Tours Limited,1,Education,school,medium
+Direct Wholesale Kitchens & Bedrooms Ltd,1,Wholesale and Retail Trade,wholesale,medium
+Dillons Hotel Limited,1,Accommodation and Food Service Activities,hotel,high
+DG Roofing Limited,1,Construction,roofing,medium
+Dew Childcare,1,Human Health and Social Work Activities,childcare,medium
+Devine Roofing & Cladding Ltd,1,Construction,roofing,medium
+Top Auto Garage,1,Wholesale and Retail Trade,garage,medium
+Tony Kierans Motors Limited,1,Wholesale and Retail Trade,motors,medium
+Tony Egan Transport Limited,1,Transportation and Storage,transport,medium
+Tom Durcan Meats Limited,1,Manufacturing,meats,medium
+Toki Kitchen Ltd T/A Manley Palmerstown Chinese Takeaway,1,Accommodation and Food Service Activities,takeaway,high
+Dermot Foley Landscape Architects Ltd,1,"Professional, Scientific and Technical Activities",architects,medium
+Dental Care Ireland Management Limited,1,Human Health and Social Work Activities,dental,high
+"Denis, Maura and Declan O'Meara Dairy Partnership",1,Manufacturing,dairy,medium
+Edward Lundy Haulage Unlimited Company,1,Transportation and Storage,haulage,medium
+Eden Recruitment Limited,1,Administrative and Support Service Activities,recruit,medium
+Eamonn Barrett International Transport Ltd,1,Transportation and Storage,transport,medium
+E.J. Kings Bar Limited,1,Accommodation and Food Service Activities,bar,medium
+Dysart Construction Limited,1,Construction,construction,medium
+Dun Laoghaire Golf Club,1,"Arts, Entertainment and Recreation",golf club,medium
+Dulane Hospitality Limited,1,Accommodation and Food Service Activities,hospitality,medium
+Dualway Coaches Limited,1,Transportation and Storage,coaches,medium
+Urlingford Pharmacy Limited,1,Wholesale and Retail Trade,pharmacy,medium
+All Nations Church Company Limited by Guarantee,1,Other Service Activities,church,medium
+All Bar None Limited,1,Accommodation and Food Service Activities,bar,medium
+AK Accounting Limited Co,1,"Professional, Scientific and Technical Activities",accounting,medium
+Airside Pizza Limited,1,Accommodation and Food Service Activities,pizza,high
+Airline Business Limited,1,Transportation and Storage,airline,medium
+UPMC Sports Surgery Clinic Limited,1,Human Health and Social Work Activities,clinic,high
+UPMC Aut Even Hospital Limited,1,Human Health and Social Work Activities,hospital,high
+University of Notre Dame du Lac,1,Education,university,high
+Zurich Insurance Company Ltd,1,Financial and Insurance Activities,insurance,medium
+Wu Ruan Cafe Limited,1,Accommodation and Food Service Activities,cafe,medium
+Woodville Pig Farms Unlimited Company,1,"Agriculture, Forestry and Fishing",farms,medium
+Wilson's Hospital School CLG,1,Human Health and Social Work Activities,hospital,high
+Ardilaun House Hotel Ltd,1,Accommodation and Food Service Activities,hotel,high
+ARCHITECTURAL STEEL & MECHANICAL SERVICES LIMITED,1,"Professional, Scientific and Technical Activities",architect,medium
+Architectural Doorsets Limited,1,"Professional, Scientific and Technical Activities",architect,medium
+Longcourt Hospitality Limited,1,Accommodation and Food Service Activities,hospitality,medium
+Local Garage Ltd,1,Wholesale and Retail Trade,garage,medium
+Little Smarties Childcare Limited,1,Human Health and Social Work Activities,childcare,medium
+Little Imps Childcare Ltd,1,Human Health and Social Work Activities,childcare,medium
+Link Credit Union Limited,1,Financial and Insurance Activities,credit union,medium
+Lina Hospitality Consultancy Service Limited,1,Accommodation and Food Service Activities,hospitality,medium
+3M Healthcare EMEA Export Limited,1,Human Health and Social Work Activities,healthcare,medium
+Uniphar Wholesale Limited,1,Wholesale and Retail Trade,wholesale,medium
+UCC Academy Designated Activity Company,1,Education,academy,medium
+Twin Town Pubs Ltd,1,Accommodation and Food Service Activities,pubs,medium
+Arisu Korean Restaurant Limited,1,Accommodation and Food Service Activities,restaurant,high
+DPH Pubs Ltd,1,Accommodation and Food Service Activities,pubs,medium
+Doyle Hotels (Holdings) Limited,1,Accommodation and Food Service Activities,hotels,high
+Downey Cleaning Services Ltd,1,Administrative and Support Service Activities,cleaning,medium
+Donnelly Civil Engineering Limited,1,Construction,civil engineering,medium
+Donabate Takeaway,1,Accommodation and Food Service Activities,takeaway,high
