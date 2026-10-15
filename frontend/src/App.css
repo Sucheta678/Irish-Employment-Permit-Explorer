@@ -1,0 +1,163 @@
+header {
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+header nav {
+  width: min(1200px, 100%);
+  min-height: 64px;
+  margin: 0 auto;
+  padding: 0 24px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header nav > a {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+header nav div {
+  display: flex;
+  gap: 24px;
+}
+
+header nav div a {
+  font-weight: 500;
+}
+
+.search-bar {
+  display: flex;
+  gap: 12px;
+  margin: 24px 0;
+}
+
+.search-bar input {
+  flex: 1;
+  min-width: 0;
+  padding: 12px 16px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.search-bar button {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 6px;
+  background: #1f2937;
+  color: white;
+  cursor: pointer;
+}
+
+.filter-panel {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  padding: 20px;
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+}
+
+.filter-panel label {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-weight: 600;
+}
+
+.filter-panel select {
+  padding: 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  background: white;
+}
+
+@media (max-width: 800px) {
+  .filter-panel {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 500px) {
+  .search-bar {
+    flex-direction: column;
+  }
+
+  .filter-panel {
+    grid-template-columns: 1fr;
+  }
+}
+
+.results-table-wrapper {
+  margin-top: 16px;
+  overflow-x: auto;
+}
+
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border: 1px solid #e5e7eb;
+}
+
+.results-table th,
+.results-table td {
+  padding: 14px 16px;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.results-table th {
+  background: #f8fafc;
+  font-weight: 600;
+}
+
+.results-table a {
+  font-weight: 600;
+}
+
+.company-card {
+  padding: 20px;
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+}
+
+.loading-state,
+.error-state {
+  margin-top: 20px;
+  padding: 16px;
+  border-radius: 8px;
+  background: white;
+  border: 1px solid #e5e7eb;
+}
+
+.error-state {
+  border-color: #fca5a5;
+}
+
+@media (max-width: 600px) {
+  main {
+    padding: 24px 16px;
+  }
+
+  header nav {
+    padding: 0 16px;
+  }
+
+  header nav > a {
+    font-size: 1rem;
+  }
+
+  header nav div {
+    gap: 12px;
+  }
+
+  .results-table {
+    min-width: 650px;
+  }
+}
