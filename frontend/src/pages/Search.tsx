@@ -1,76 +1,40 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 import SearchBar from "../components/SearchBar";
 import FilterPanel from "../components/FilterPanel";
 import ResultsTable from "../components/ResultsTable";
+import { getCompanies } from "../services/api";
 
 import type { Company } from "../types";
 
-interface MockCompany extends Company {
-  year: number;
-  occupation: string;
-}
-
-const mockCompanies: MockCompany[] = [
-  {
-    id: 1,
-    name: "Example Technology Ltd",
-    year: 2026,
-    occupation: "Software Developer",
-    enrichment: {
-      sector: "Technology",
-      companySize: "Large",
-      source: "Company website",
-      researchedAt: "2026-10-10",
-    },
-  },
-  {
-    id: 2,
-    name: "Example Healthcare Ltd",
-    year: 2025,
-    occupation: "Data Analyst",
-    enrichment: {
-      sector: "Healthcare",
-      companySize: "Medium",
-      source: "Company website",
-      researchedAt: "2026-10-10",
-    },
-  },
-  {
-    id: 3,
-    name: "Example Finance Ltd",
-    year: 2026,
-    occupation: "Data Analyst",
-    enrichment: {
-      sector: "Finance",
-      companySize: "Large",
-      source: "Company website",
-      researchedAt: "2026-10-10",
-    },
-  },
-  {
-    id: 4,
-    name: "Example Engineering Ltd",
-    year: 2024,
-    occupation: "Engineer",
-    enrichment: {
-      sector: "Engineering",
-      companySize: null,
-      source: null,
-      researchedAt: null,
-    },
-  },
-];
-
 function Search() {
+  const [companies, setCompanies] = useState<Company[]>([]);
   const [search, setSearch] = useState("");
   const [year, setYear] = useState("");
   const [sector, setSector] = useState("");
   const [occupation, setOccupation] = useState("");
   const [companySize, setCompanySize] = useState("");
 
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+
+  useEffect(() => {
+    async function loadCompanies() {
+      try {
+        const data = await getCompanies();
+        setCompanies(data);
+      } catch {
+        setError("Failed to load companies.");
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    loadCompanies();
+  }, []);
+
   const filteredCompanies = useMemo(() => {
-    return mockCompanies.filter((company) => {
+    return companies.filter((company) => {
       const matchesSearch =
         company.name.toLowerCase().includes(search.toLowerCase());
 
@@ -87,7 +51,7 @@ function Search() {
 
       const matchesCompanySize =
         companySize === "" ||
-        company.enrichment?.companySize === companySize;
+        company.enrichment?.company_size === companySize;
 
       return (
         matchesSearch &&
@@ -97,7 +61,7 @@ function Search() {
         matchesCompanySize
       );
     });
-  }, [search, year, sector, occupation, companySize]);
+  }, [companies, search, year, sector, occupation, companySize]);
 
   function handleSearch() {
     console.log("Search filters:", {
@@ -107,6 +71,14 @@ function Search() {
       occupation,
       companySize,
     });
+  }
+
+  if (loading) {
+    return <p>Loading companies...</p>;
+  }
+
+  if (error) {
+    return <p>{error}</p>;
   }
 
   return (

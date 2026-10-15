@@ -1,6 +1,6 @@
 export interface CompanyEnrichment {
-  sector: string | null;
-  companySize: string | null;
-  source: string | null;
-  researchedAt: string | null;
+sector: string | null;
+company_size: string | null;
+source: string | null;
+researched_at: string | null;
 }
