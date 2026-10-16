@@ -11,6 +11,13 @@ __pycache__/
 
 # Extra
 Irish_employement_permit_explorer - 4 Week Schedule.pdf
+PROGRESS.md
+
+# AI agent files (local only)
+CLAUDE.md
+HANDOFF.md
+.claude/settings.local.json
+.claude/hooks/
 
 # Distribution / packaging
 .Python
