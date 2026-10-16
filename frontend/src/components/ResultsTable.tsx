@@ -33,7 +33,7 @@ function ResultsTable({ companies }: ResultsTableProps) {
               </td>
 
               <td>
-                {company.enrichment?.companySize ?? "Unknown"}
+                {company.enrichment?.company_size ?? "Unknown"}
               </td>
 
               <td>

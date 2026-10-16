@@ -14,7 +14,7 @@ function CompanyCard({ company }: CompanyCardProps) {
       </p>
 
       <p>
-        Company size: {company.enrichment?.companySize ?? "Unknown"}
+        Company size: {company.enrichment?.company_size ?? "Unknown"}
       </p>
     </article>
   );
