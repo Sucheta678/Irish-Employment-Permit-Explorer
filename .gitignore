@@ -9,6 +9,9 @@ __pycache__/
 # MacOS
 .DS_Store
 
+# Extra
+Irish_employement_permit_explorer - 4 Week Schedule.pdf
+
 # Distribution / packaging
 .Python
 build/
