@@ -1,16 +1,24 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
 
 
-class CompanyEnrichment(BaseModel):
-    sector: str | None = None
-    company_size: str | None = None
-    source: str | None = None
-    researched_at: str | None = None
+class CompanyOut(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
 
-
-class CompanyResponse(BaseModel):
     id: int
-    name: str
-    year: int
-    occupation: str
-    enrichment: CompanyEnrichment | None = None
+    company_name: str
+    permit_count: int
+    sector: str | None
+    size_of_company: str | None
+
+
+class CompanyListOut(BaseModel):
+    items: list[CompanyOut]
+    total: int
+    page: int
+    page_size: int
+    total_pages: int
+
+
+class FilterOptions(BaseModel):
+    sectors: list[str]
+    sizes: list[str]
