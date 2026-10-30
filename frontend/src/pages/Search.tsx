@@ -1,115 +1,153 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 
 import SearchBar from "../components/SearchBar";
 import FilterPanel from "../components/FilterPanel";
 import ResultsTable from "../components/ResultsTable";
-import { getCompanies } from "../services/api";
+import LoadingState from "../components/LoadingState";
+import ErrorState from "../components/ErrorState";
+import { getCompanies, getFilterOptions } from "../services/api";
 
-import type { Company } from "../types";
+import type { CompanyList, FilterOptions } from "../types";
+
+const PAGE_SIZE = 20;
+const SEARCH_DELAY_MS = 300;
+
+interface Query {
+  search: string;
+  sector: string;
+  companySize: string;
+  page: number;
+}
+
+type Result =
+  | { query: Query; data: CompanyList }
+  | { query: Query; error: string };
 
 function Search() {
-  const [companies, setCompanies] = useState<Company[]>([]);
-  const [search, setSearch] = useState("");
-  const [year, setYear] = useState("");
-  const [sector, setSector] = useState("");
-  const [occupation, setOccupation] = useState("");
-  const [companySize, setCompanySize] = useState("");
-
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+  const [searchInput, setSearchInput] = useState("");
+  const [query, setQuery] = useState<Query>({
+    search: "",
+    sector: "",
+    companySize: "",
+    page: 1,
+  });
+  const [result, setResult] = useState<Result | null>(null);
+  const [filterOptions, setFilterOptions] = useState<FilterOptions>({
+    sectors: [],
+    sizes: [],
+  });
 
   useEffect(() => {
-    async function loadCompanies() {
-      try {
-        const data = await getCompanies();
-        setCompanies(data);
-      } catch {
-        setError("Failed to load companies.");
-      } finally {
-        setLoading(false);
-      }
-    }
-
-    loadCompanies();
+    getFilterOptions()
+      .then(setFilterOptions)
+      .catch(() => {
+        // The filters stay empty; the results request reports the error.
+      });
   }, []);
 
-  const filteredCompanies = useMemo(() => {
-    return companies.filter((company) => {
-      const matchesSearch =
-        company.name.toLowerCase().includes(search.toLowerCase());
-
-      const matchesYear =
-        year === "" || company.year === Number(year);
-
-      const matchesSector =
-        sector === "" ||
-        company.enrichment?.sector === sector;
-
-      const matchesOccupation =
-        occupation === "" ||
-        company.occupation === occupation;
-
-      const matchesCompanySize =
-        companySize === "" ||
-        company.enrichment?.company_size === companySize;
-
-      return (
-        matchesSearch &&
-        matchesYear &&
-        matchesSector &&
-        matchesOccupation &&
-        matchesCompanySize
+  // Wait until the user stops typing before searching.
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setQuery((current) =>
+        current.search === searchInput.trim()
+          ? current
+          : { ...current, search: searchInput.trim(), page: 1 },
       );
-    });
-  }, [companies, search, year, sector, occupation, companySize]);
+    }, SEARCH_DELAY_MS);
+
+    return () => clearTimeout(timer);
+  }, [searchInput]);
+
+  useEffect(() => {
+    let cancelled = false;
+
+    getCompanies({
+      search: query.search,
+      sector: query.sector,
+      size: query.companySize,
+      page: query.page,
+      pageSize: PAGE_SIZE,
+    })
+      .then((data) => {
+        if (!cancelled) setResult({ query, data });
+      })
+      .catch(() => {
+        if (!cancelled) {
+          setResult({ query, error: "Failed to load companies." });
+        }
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [query]);
 
   function handleSearch() {
-    console.log("Search filters:", {
-      search,
-      year,
-      sector,
-      occupation,
-      companySize,
-    });
+    setQuery((current) => ({ ...current, search: searchInput.trim(), page: 1 }));
   }
 
-  if (loading) {
-    return <p>Loading companies...</p>;
-  }
-
-  if (error) {
-    return <p>{error}</p>;
-  }
+  const loading = result === null || result.query !== query;
 
   return (
     <section>
       <h1>Search Companies</h1>
 
       <SearchBar
-        value={search}
-        onChange={setSearch}
+        value={searchInput}
+        onChange={setSearchInput}
         onSearch={handleSearch}
       />
 
       <FilterPanel
-        year={year}
-        sector={sector}
-        occupation={occupation}
-        companySize={companySize}
-        onYearChange={setYear}
-        onSectorChange={setSector}
-        onOccupationChange={setOccupation}
-        onCompanySizeChange={setCompanySize}
+        options={filterOptions}
+        sector={query.sector}
+        companySize={query.companySize}
+        onSectorChange={(sector) => setQuery({ ...query, sector, page: 1 })}
+        onCompanySizeChange={(companySize) =>
+          setQuery({ ...query, companySize, page: 1 })
+        }
       />
 
       <h2>Results</h2>
 
-      <p>
-        {filteredCompanies.length}{" "}
-        {filteredCompanies.length === 1 ? "company" : "companies"} found
-      </p>
+      {loading && <LoadingState />}
 
-      <ResultsTable companies={filteredCompanies} />
+      {!loading && "error" in result && <ErrorState message={result.error} />}
+
+      {!loading && "data" in result && (
+        <>
+          <p>
+            {result.data.total.toLocaleString()}{" "}
+            {result.data.total === 1 ? "company" : "companies"} found
+          </p>
+
+          <ResultsTable companies={result.data.items} />
+
+          {result.data.total_pages > 1 && (
+            <nav className="pagination" aria-label="Results pages">
+              <button
+                type="button"
+                disabled={query.page <= 1}
+                onClick={() => setQuery({ ...query, page: query.page - 1 })}
+              >
+                Previous
+              </button>
+
+              <span>
+                Page {query.page} of {result.data.total_pages}
+              </span>
+
+              <button
+                type="button"
+                disabled={query.page >= result.data.total_pages}
+                onClick={() => setQuery({ ...query, page: query.page + 1 })}
+              >
+                Next
+              </button>
+            </nav>
+          )}
+        </>
+      )}
     </section>
   );
 }

@@ -7,14 +7,18 @@ interface CompanyCardProps {
 function CompanyCard({ company }: CompanyCardProps) {
   return (
     <article className="company-card">
-      <h3>{company.name}</h3>
+      <h3>{company.company_name}</h3>
 
       <p>
-        Sector: {company.enrichment?.sector ?? "Unknown"}
+        Sector: {company.sector ?? "Unknown"}
       </p>
 
       <p>
-        Company size: {company.enrichment?.company_size ?? "Unknown"}
+        Company size: {company.size_of_company ?? "Unknown"}
+      </p>
+
+      <p>
+        Permits (2026): {company.permit_count}
       </p>
     </article>
   );

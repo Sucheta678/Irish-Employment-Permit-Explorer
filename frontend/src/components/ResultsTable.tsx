@@ -19,6 +19,7 @@ function ResultsTable({ companies }: ResultsTableProps) {
             <th>Company</th>
             <th>Sector</th>
             <th>Company Size</th>
+            <th>Permits (2026)</th>
             <th></th>
           </tr>
         </thead>
@@ -26,15 +27,17 @@ function ResultsTable({ companies }: ResultsTableProps) {
         <tbody>
           {companies.map((company) => (
             <tr key={company.id}>
-              <td>{company.name}</td>
+              <td>{company.company_name}</td>
 
               <td>
-                {company.enrichment?.sector ?? "Unknown"}
+                {company.sector ?? "Unknown"}
               </td>
 
               <td>
-                {company.enrichment?.company_size ?? "Unknown"}
+                {company.size_of_company ?? "Unknown"}
               </td>
+
+              <td>{company.permit_count}</td>
 
               <td>
                 <Link to={`/company/${company.id}`}>
